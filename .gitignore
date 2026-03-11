@@ -1,0 +1,45 @@
+# 知识同步专用忽略规则
+# 这些文件不应进入 sync 目录
+
+# 敏感文件
+*.key
+*.pem
+*.env*
+.env
+.env.local
+.credentials/
+secrets.json
+clawdbot.json
+
+# 运行时状态（本地）
+state.json
+agents-state.json
+runtime-config.json
+join-keys.json
+ Star-Office-UI/state.json  # 仅同步脱敏后的副本
+
+# 临时与缓存
+memory/working-buffer.md
+*.log
+*.out
+*.pid
+tmp/
+temp/
+.cache/
+
+# 虚拟环境与依赖
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.pyc
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统
+.DS_Store
+Thumbs.db

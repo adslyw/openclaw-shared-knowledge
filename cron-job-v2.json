@@ -1,0 +1,14 @@
+{
+  "name": "knowledge-sync",
+  "description": "双向知识同步（云端 Git + 敏感过滤）",
+  "schedule": {
+    "kind": "every",
+    "everyMs": 600000
+  },
+  "payload": {
+    "kind": "agentTurn",
+    "message": "AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh\n\nIf sync fails, check logs at ~/.openclaw/workspace/logs/sync-*.log and resolve conflicts manually.\n\nAfter sync, optionally run: ~/.openclaw/workspace/scripts/sync-status.sh to verify."
+  },
+  "sessionTarget": "isolated",
+  "enabled": true
+}
