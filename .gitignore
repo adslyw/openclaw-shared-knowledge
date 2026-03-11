@@ -43,3 +43,10 @@ __pycache__/
 # 系统
 .DS_Store
 Thumbs.db
+.env*
+credentials/
+secrets/
+local/
+working-buffer.md
+*.orig
+*conflict*
