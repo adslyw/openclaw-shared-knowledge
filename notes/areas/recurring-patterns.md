@@ -1,16 +1,21 @@
 # Recurring Patterns
 
-Track requests that appear 3+ times — candidates for automation.
+Track repeated requests from the human. At 3+ occurrences, propose automation.
 
-## Pattern Log
+## Pattern Threshold
+**Rule:** When the same request (or very similar) happens 3+ times, consider building automated solution.
 
-| Pattern | Count | First Seen | Suggested Automation |
-|---------|-------|------------|---------------------|
-| [Describe the task you ask repeatedly] | 0 | | [Script/cron idea] |
+## Current Patterns
 
-## How to Use
+| Pattern | Count | Status | Solution |
+|---------|-------|--------|----------|
+| *none yet* | 0 | - | - |
 
-When you notice you're doing the same thing for your human multiple times:
-1. Add an entry here
-2. At 3+ occurrences, propose an automated solution
-3. Build it if approved
+---
+
+## Pattern Details
+
+When a pattern emerges, write it up here with:
+- **Trigger:** What prompts the request
+- **Frequency:** How often it occurs
+- **Solution idea:** Proposed automation

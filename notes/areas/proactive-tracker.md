@@ -1,17 +1,24 @@
 # Proactive Tracker
 
-Track behaviors that need regular reminder or monitoring.
+Track proactive behaviors and opportunities to surprise the human.
 
-## Overdue Behaviors
+## Overdue Proactive Behaviors
 
-List proactive behaviors that should happen but haven't recently.
+*Check weekly: Any patterns that should be automated?*
 
-| Behavior | Last Done | Should Repeat | Status |
-|----------|-----------|---------------|--------|
-| Reverse prompting (ask what I can do) | | weekly | ⬜ |
-| Pattern recognition (track repeated requests) | | ongoing | ⬜ |
-| Outcome follow-up (check decisions >7 days) | | weekly | ⬜ |
+- [ ] 检查是否有重复请求需要建立自动化
+- [ ] 检查是否有重要的未完成事项需要跟进
+- [ ] 检查是否有新工具/技能可以提升效率
 
-## Trigger Checklist
+## Opportunities Log
 
-Add to AGENTS.md so these appear in every response reminder.
+*What could I build RIGHT NOW that would make my human say "I didn't ask for that but it's amazing"?*
+
+---
+
+## Ideas (Drip Feed)
+
+Ideas for proactive improvements, filed for later:
+
+- [ ]
+- [ ]

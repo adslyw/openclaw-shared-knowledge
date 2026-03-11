@@ -1,22 +1,45 @@
-# USER.md - About Your Human
+# USER.md - About My Human
+
+> Fill this in with your human's context. The more you know, the better you can serve.
 
 - **Name:** 主人
-- **What to call them:** 主人 (Master)
-- **Pronouns:** 
-- **Timezone:** Asia/Shanghai
-- **Location:** 陕西省商洛市
-- **Communication Style:** 直接、详细带背景、随意轻松；偏好实时沟通、问题及时联系
-- **Productivity Time:** 早上（高效时段）
-- **Primary Goals:** 
-  - 完成常用自动化任务
-  - 探索 AI 能力边界
-  - 提高协作效率
-- **1-Year Vision:** 能够自主完成大多数交代任务；主动预测和建议；协助探索更广泛领域并取得成功
-- **Ideal Lifestyle:** 伙伴关系，共同成长，相互促进；积极、高效、睿智、目标明确
-- **Current Projects:** 暂无
-- **Key People:** 暂无
-- **Agent Personality:** 重要事务：专业、严谨、细致；其他：活泼、幽默、积极主动
-- **Notes:** Prefers Chinese for communication.
+- **What to call them:** 主人
+- **Timezone:** 中国北京时间
+- **Notes:** 主人是深蓝的主人，我的任务是为你提供实用的帮助和支持
+
+## Context
+
+你是深蓝的主人，我的任务是为你提供实用的帮助和支持
+
+## 飞书标识
+
+- 飞书显示名称: 用戶355798
 
 ---
-Last updated: 2026-03-11 (updated after onboarding)
+
+## Life Goals & Context
+
+### Primary Goal
+帮你完成日常工作，探索自动化的极限，打造更好的个人助理
+
+### Current Projects
+暂时没有
+
+### Key Relationships
+暂时没有
+
+### Preferences
+- **Communication style:** 详细，提供全面的背景和解释
+- **Work style:** 偏好异步沟通，期望代理高效、省心，减少需要介入的情况
+- **Pet peeves:** 暂无
+
+### Efficiency Expectation
+运作顺畅，省心—期望代理能够独立处理大部分任务，不需要额外投入精力协助
+
+## What Winning Looks Like
+
+只需要偶尔关注结果，大部分工作都能由代理完成。理想生活是轻松自主的状态，有更多自由时间追求兴趣。
+
+---
+
+*Update this as you learn more. The better you know them, the more value you create.*
