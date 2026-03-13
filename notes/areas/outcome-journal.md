@@ -1,13 +1,18 @@
 # Outcome Journal
 
-Track important decisions and follow up on their outcomes.
+Track significant decisions and their outcomes. Follow up on items older than 7 days.
+
+## Decision Follow-Up Cadence
+**Rule:** Weekly review of decisions >7 days old. Check: Was outcome as expected? Any learnings?
 
 ## Decision Log
 
-| Date | Decision | Expected Outcome | Follow-up Date | Actual Outcome | Success? |
-|------|----------|------------------|----------------|----------------|----------|
-| | | | | | |
+| Date | Decision | Expected Outcome | Actual Outcome | Status | Learnings |
+|------|----------|------------------|----------------|--------|-----------|
+| 2026-03-10 | Installed Proactive Agent v3.1.0 | More autonomous, proactive assistance | - | pending | - |
 
-## Weekly Review
+---
 
-Check items >7 days old and ask: Did this work out? What did we learn?
+## More Details
+
+For each decision, you can elaborate here..."]
