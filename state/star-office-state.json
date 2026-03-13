@@ -1,5 +1,6 @@
 {
-  "endpoint": "http://127.0.0.1:19500/agent-push",
-  "joinKey": "ocj_starteam03",
-  "agentId": "pm"
+  "state": "idle",
+  "detail": "待命中",
+  "progress": 0,
+  "updated_at": "2026-03-10T17:32:43.790846"
 }
