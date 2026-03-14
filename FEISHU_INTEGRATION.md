@@ -15,6 +15,31 @@ OpenClaw 提供以下 Feishu 相关工具：
 
 ---
 
+## 🎯 实际配置（主人）
+
+### 用户标识
+- **显示名称**: 用戶355798
+- **open_id**: `ou_2a65393851d54096fb0e92453a6e8ef9`
+- **常用群聊**: "我的大本营" (`oc_682d1227151859c20e4e7e7b28737770`)
+
+### 常用操作示例
+```bash
+# 向主人发送个人消息
+message action=send channel=feishu target=ou_2a65393851d54096fb0e92453a6e8ef9 message="任务已完成"
+
+# 向大本营群发消息
+message action=send channel=feishu target=oc_682d1227151859c20e4e7e7b28737770 message="同步完成"
+```
+
+### 权限检查
+运行 `feishu_app_scopes` 查看当前应用权限。确保包含：
+- `im:message` (读写消息)
+- `im:chat:read` (读取聊天列表)
+- `im:chat:create` (创建聊天)
+- `im:message.send_as_bot` (机器人发送)
+
+---
+
 ## 🗂️ 建议的 Feishu 结构
 
 ### **方案 A: 使用 Wiki（推荐）**
