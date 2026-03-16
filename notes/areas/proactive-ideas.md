@@ -22,3 +22,16 @@
 - 是否可衡量价值？
 - 是否需要外部批准？
 
+---
+
+## 2026-03-17 心跳新增
+
+### Ready-State Project Acceleration
+**Context:** Team idle, infrastructure tested, no active project
+**Idea:** Build a "Project Kickoff Framework" to accelerate next assignment by 1-2 days:
+- Project template: docs/ (README, API spec), src/ (base structure with Docker), tests/ (E2E scaffold), docker-compose.yml (multi-service ready)
+- Oliver's task decomposition utility: CLI that takes plain requirements and outputs structured task breakdown with agent assignments
+- CI/CD templates: GitHub Actions for lint, test, build, deploy (Docker + Nginx)
+**Impact:** Reduces setup friction, ensures consistency, enables faster delivery
+**Effort:** 2-3 hours to create solid templates
+**Priority:** Medium (use time when waiting for next project)
