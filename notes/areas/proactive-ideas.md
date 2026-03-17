@@ -27,7 +27,7 @@
 ## 2026-03-17 心跳新增
 
 ### Star Office Auto-Recovery Daemon
-**Context:** This morning's service outage required manual restart and config fix
+**Context:** This morning's service outage + recurring ~30min auth expiry requiring manual refresh
 **Idea:** Bash daemon with 2-minute health check loop:
 - `curl -s http://127.0.0.1:19500/agents` fails → restart via `/home/deepnight/start_star_office.sh`
 - DeepBlue auth status "offline" → auto-push presence
@@ -35,6 +35,7 @@
 **Impact:** Zero-downtime dashboard, no manual intervention needed
 **Effort:** 30 minutes (bash script + install as systemd/cron)
 **Priority:** High (reliability improvement)
+**Observed TTL:** Auth expires ~30 minutes (2026-03-17 heartbeat checks)
 
 ---
 
