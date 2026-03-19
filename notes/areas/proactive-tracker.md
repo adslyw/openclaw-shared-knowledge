@@ -14,6 +14,12 @@ Track proactive behaviors and opportunities to surprise the human.
 
 *What could I build RIGHT NOW that would make my human say "I didn't ask for that but it's amazing"?*
 
+**2026-03-20**: Service Health Monitor
+- Problem: M3U Player running 46+ hours without restart strategy; need visibility into service health
+- Solution: Lightweight daemon that checks all critical services every 5 minutes, logs status, auto-restarts failures
+- Benefits: Proactive self-healing, permanent uptime, single source of truth for system health
+- Implementation: Simple shell script with curl checks + restart logic, structured JSON logging
+
 ---
 
 ## Ideas (Drip Feed)
