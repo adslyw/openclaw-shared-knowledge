@@ -20,6 +20,12 @@ Track proactive behaviors and opportunities to surprise the human.
 - Benefits: Proactive self-healing, permanent uptime, single source of truth for system health
 - Implementation: Simple shell script with curl checks + restart logic, structured JSON logging
 
+**2026-03-20 (2)**: Backup Integrity Validator
+- Problem: M3U Player has 7-day rotating backups, but no verification that backups are actually valid and restorable
+- Solution: Automated weekly restore test that picks random backup, restores to temp DB, verifies schema/row counts/data accessibility, generates validation report
+- Benefits: Confidence that backups will work when needed, catches corruption early
+- Different focus: DATA RECOVERABILITY rather than service health
+
 ---
 
 ## Ideas (Drip Feed)
