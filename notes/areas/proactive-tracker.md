@@ -92,6 +92,12 @@ Track proactive behaviors and opportunities to surprise the human.
 - Benefits: Quick self-diagnosis, isolates extension vs. stream issues, reduces support back-and-forth, builds user confidence in CORS bypass
 - Different focus: SELF-TEST USER EXPERIENCE vs. diagnostics infrastructure
 
+**2026-03-20 (14)**: M3U Player Docker Graceful Restart Scheduler
+- Problem: M3U Player Docker container running 3+ days continuously; while healthy, long-running Node.js processes can accumulate memory leaks or degraded performance over time
+- Solution: Scheduled graceful restart during low-usage hours (e.g., daily 03:00) with zero-downtime technique: spin up new container, wait for ready, stop old container, using Docker health checks and a simple orchestrator script
+- Benefits: Prevents potential degradation, maintains consistent performance, no manual intervention needed, extends service reliability
+- Different focus: PREVENTIVE MAINTENANCE (scheduled restarts) vs. reactive health monitoring or self-healing after failure
+
 ---
 
 ## Ideas (Drip Feed)
