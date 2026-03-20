@@ -62,6 +62,18 @@ Track proactive behaviors and opportunities to surprise the human.
 - Benefits: Prevents accidental overwrites, increases sync transparency, gives owner confidence that automation respects manual work
 - Different focus: CHANGE ORIGINS tracking (manual vs automated) vs. health, quality, or compliance
 
+**2026-03-20 (9)**: Resource Usage Alert System
+- Problem: System runs fine but lacks proactive alerts for resource exhaustion (disk >85%, memory pressure, container log volume) before it becomes critical
+- Solution: Threshold-based monitor checking disk usage (/, /data, Docker volumes), memory utilization, container log sizes hourly; escalate via `memory/` logs and optional Star Office notification when thresholds exceeded
+- Benefits: Prevents unexpected outages due to resource saturation, gives lead time for cleanup/expansion, maintains service continuity
+- Different focus: RESOURCE CAPACITY MANAGEMENT vs. service liveness, performance baselines, or security
+
+**2026-03-20 (10)**: Service Dependency Graph Generator
+- Problem: Multiple services (knowledge sync, Star Office daemon, M3U Player) interact but we lack visibility into their dependencies and impact chains
+- Solution: Static analysis tool that parses cron jobs, Docker compose files, shell scripts, config files to build a dependency graph in DOT/Graphviz format, outputs to `memory/service-dependencies-YYYY-MM-DD.dot`
+- Benefits: Visualize system topology, identify single points of failure, understand cascading impacts before making changes
+- Different focus: ARCHITECTURE VISUALIZATION vs. health/performance/compliance monitoring
+
 ---
 
 ## Ideas (Drip Feed)
