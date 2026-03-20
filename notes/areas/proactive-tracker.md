@@ -80,6 +80,12 @@ Track proactive behaviors and opportunities to surprise the human.
 - Benefits: Quick scan of changes without git history digging; creates audit trail for autonomous operations; detects unexpected changes early
 - Different focus: HUMAN-READABLE NARRATIVE vs. metrics/reports; provides digest of content changes
 
+**2026-03-20 (12)**: M3U Extension Diagnostic Page
+- Problem: Debugging extension issues (like current data persistence problem) requires opening DevTools and interpreting console output, not user-friendly
+- Solution: Built-in `test.html` page accessible from popup that runs self-tests: chrome.storage permissions, quota, read/write/delete cycle, and displays clear pass/fail UI with actionable guidance
+- Benefits: User-friendly troubleshooting, faster issue resolution, empowers non-technical users to run diagnostics, reduces back-and-forth
+- Different focus: EXTENSION DEBUGGING UX vs. system observability or health monitoring
+
 ---
 
 ## Ideas (Drip Feed)
