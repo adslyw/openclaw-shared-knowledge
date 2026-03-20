@@ -26,6 +26,18 @@ Track proactive behaviors and opportunities to surprise the human.
 - Benefits: Confidence that backups will work when needed, catches corruption early
 - Different focus: DATA RECOVERABILITY rather than service health
 
+**2026-03-20 (3)**: Documentation Consistency Auditor
+- Problem: Growing workspace (notes/, MEMORY.md, skills, AGENTS.md) accumulates broken links, orphaned files, formatting drift unnoticed
+- Solution: Scan all markdown files for broken internal links, missing references, heading inconsistencies, orphaned files; generate `memory/docs-audit-YYYY-MM-DD.md` with categorized issues and suggested fixes
+- Benefits: Maintains knowledge base health, prevents reference rot, ensures long-term maintainability
+- Different focus: KNOWLEDGE QUALITY (docs/linking) vs. operational/system metrics
+
+**2026-03-20 (4)**: Unified Log Dashboard
+- Problem: Logs scattered across services (sync logs, star-office-daemon.log, Docker logs, backup logs) - no single view of system-wide health
+- Solution: Daily consolidated log digest aggregating all service logs into `memory/daily-log-digest-YYYY-MM-DD.md` with categorized sections, error highlights, trend indicators; plus optional real-time HTML dashboard for streaming view
+- Benefits: One-place observability, rapid troubleshooting, pattern recognition across services
+- Different focus: CENTRALIZED OBSERVABILITY vs. individual service monitors
+
 ---
 
 ## Ideas (Drip Feed)
