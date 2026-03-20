@@ -74,6 +74,12 @@ Track proactive behaviors and opportunities to surprise the human.
 - Benefits: Visualize system topology, identify single points of failure, understand cascading impacts before making changes
 - Different focus: ARCHITECTURE VISUALIZATION vs. health/performance/compliance monitoring
 
+**2026-03-20 (11)**: Automated Changelog Generator
+- Problem: Knowledge sync commits happen automatically but owner lacks a human-readable summary of what changed across core/memory/notes/skills daily
+- Solution: Post-sync script that generates `CHANGELOG.md` with categorized diffs (Configuration, Memories, Notes, Skills), includes timestamps, commit hashes, brief summaries
+- Benefits: Quick scan of changes without git history digging; creates audit trail for autonomous operations; detects unexpected changes early
+- Different focus: HUMAN-READABLE NARRATIVE vs. metrics/reports; provides digest of content changes
+
 ---
 
 ## Ideas (Drip Feed)
