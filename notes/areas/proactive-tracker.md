@@ -86,6 +86,12 @@ Track proactive behaviors and opportunities to surprise the human.
 - Benefits: User-friendly troubleshooting, faster issue resolution, empowers non-technical users to run diagnostics, reduces back-and-forth
 - Different focus: EXTENSION DEBUGGING UX vs. system observability or health monitoring
 
+**2026-03-20 (13)**: Built-in Test Stream Feature
+- Problem: Users reporting "播放不了" hard to diagnose—could be their specific m3u8 link (CORS, server) or the extension itself
+- Solution: Add a "测试连接" button that plays a known-good public m3u8 stream (e.g., public TV channel) to validate the extension's cross-domain capability
+- Benefits: Quick self-diagnosis, isolates extension vs. stream issues, reduces support back-and-forth, builds user confidence in CORS bypass
+- Different focus: SELF-TEST USER EXPERIENCE vs. diagnostics infrastructure
+
 ---
 
 ## Ideas (Drip Feed)
