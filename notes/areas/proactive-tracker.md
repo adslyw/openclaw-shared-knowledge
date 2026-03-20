@@ -38,6 +38,18 @@ Track proactive behaviors and opportunities to surprise the human.
 - Benefits: One-place observability, rapid troubleshooting, pattern recognition across services
 - Different focus: CENTRALIZED OBSERVABILITY vs. individual service monitors
 
+**2026-03-20 (5)**: Network Performance Baseline Tracker
+- Problem: System performance is good but we have no baseline metrics for network latency (to localhost services), disk I/O speed (for database writes), and container startup times under load
+- Solution: Benchmark script that runs every 6 hours, measures key metrics (curl response time, db write latency, docker start time), stores time-series data in `memory/performance-baseline-YYYY-MM.jsonl`
+- Benefits: Early detection of performance degradation, capacity planning data, quantitative evidence for optimization efforts
+- Different focus: PERFORMANCE QUANTIFICATION vs. health monitoring; establishes data-driven baselines
+
+**2026-03-20 (6)**: Security Posture Scanner
+- Problem: System runs reliably but lacks visibility into security exposure (open ports, file permissions, outdated packages, credential leakage)
+- Solution: Weekly automated security audit that scans for world-writable files, Docker security issues (privileged mode), hardcoded secrets, exposed ports; generates `memory/security-audit-YYYY-MM-DD.md` with risk ratings and remediation steps
+- Benefits: Proactive security hygiene, early misconfiguration detection, maintains trust
+- Different focus: RISK PREVENTION (security) vs. reliability, quality, or performance monitoring
+
 ---
 
 ## Ideas (Drip Feed)
