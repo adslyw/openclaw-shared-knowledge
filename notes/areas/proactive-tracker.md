@@ -50,6 +50,12 @@ Track proactive behaviors and opportunities to surprise the human.
 - Benefits: Proactive security hygiene, early misconfiguration detection, maintains trust
 - Different focus: RISK PREVENTION (security) vs. reliability, quality, or performance monitoring
 
+**2026-03-20 (7)**: Dependency License Compliance Scanner
+- Problem: M3U Player uses npm packages; no visibility into license compliance (MIT, GPL, etc.) affecting distribution rights
+- Solution: Monthly scan using `license-checker` to catalog dependencies, their licenses, flag conflicts, generate `memory/license-compliance-YYYY-MM.md`
+- Benefits: Legal compliance awareness, avoids licensing issues, identifies problematic dependencies early
+- Different focus: LEGAL/COMPLIANCE dimension, not technical or operational metrics
+
 ---
 
 ## Ideas (Drip Feed)
