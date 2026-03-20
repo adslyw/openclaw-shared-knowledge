@@ -56,6 +56,12 @@ Track proactive behaviors and opportunities to surprise the human.
 - Benefits: Legal compliance awareness, avoids licensing issues, identifies problematic dependencies early
 - Different focus: LEGAL/COMPLIANCE dimension, not technical or operational metrics
 
+**2026-03-20 (8)**: Configuration Drift Detector
+- Problem: Knowledge sync auto-manages core/memory/notes/skills; manual edits to these files could cause sync conflicts or unexpected overwrites
+- Solution: Pre-sync and post-sync comparison to detect manual modifications, generate `memory/drift-report-YYYY-MM-DD.md` with file paths, diffs, conflict likelihood
+- Benefits: Prevents accidental overwrites, increases sync transparency, gives owner confidence that automation respects manual work
+- Different focus: CHANGE ORIGINS tracking (manual vs automated) vs. health, quality, or compliance
+
 ---
 
 ## Ideas (Drip Feed)
