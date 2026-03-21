@@ -1,18 +1,14 @@
 # Outcome Journal
 
-Track significant decisions and their outcomes. Follow up on items older than 7 days.
+## Significant Decisions & Outcomes
 
-## Decision Follow-Up Cadence
-**Rule:** Weekly review of decisions >7 days old. Check: Was outcome as expected? Any learnings?
-
-## Decision Log
-
-| Date | Decision | Expected Outcome | Actual Outcome | Status | Learnings |
-|------|----------|------------------|----------------|--------|-----------|
-| 2026-03-10 | Installed Proactive Agent v3.1.0 | More autonomous, proactive assistance | - | pending | - |
+| Date | Decision | Outcome | Learned |
+|------|----------|---------|---------|
+| 2026-03-20 | CORS proxy + M3U8 rewrite | ✅ Successful, player.m3u works | Relative path rewriting critical for proxy chains |
+| 2026-03-17 | Star Office daemon | ✅ Zero manual maintenance | External TTL auth must be automated |
+| 2026-03-14 | Direct故障转移 (bypass team) | ✅ Service restored in 3 min | Main agent must have emergency override |
+| 2026-03-21 | Team expansion + ClawTeam | ⏳ In progress | Coordination layer improves scalability |
 
 ---
 
-## More Details
-
-For each decision, you can elaborate here..."]
+*Auto-updated by DeepBlue.*

@@ -1,21 +1,21 @@
 # Recurring Patterns
 
-Track repeated requests from the human. At 3+ occurrences, propose automation.
+## Patterns to Automate
 
-## Pattern Threshold
-**Rule:** When the same request (or very similar) happens 3+ times, consider building automated solution.
+| Pattern | Count | Last Seen | Suggested Automation |
+|---------|-------|-----------|---------------------|
+| Database optimization tasks | 1 | 2026-03-20 | Create performance tuning checklist |
+| CORS proxy configuration | 1 | 2026-03-20 | Auto-detect + auto-configure (✅ implemented) |
+| Bulk data imports | 0 | — | Use Nexus + ClawTeam parallel workers |
+| Container health monitoring | 2 | 2026-03-14, 2026-03-17 | Auto-restart daemon (✅ implemented) |
 
-## Current Patterns
+## Watch for (3+ occurrences → automate)
 
-| Pattern | Count | Status | Solution |
-|---------|-------|--------|----------|
-| *none yet* | 0 | - | - |
+- [ ] Task assignment handoffs (Atlas → Nexus → workers)
+- [ ] E2E test flakiness
+- [ ] API response time regressions
+- [ ] Docker volume permission errors
 
 ---
 
-## Pattern Details
-
-When a pattern emerges, write it up here with:
-- **Trigger:** What prompts the request
-- **Frequency:** How often it occurs
-- **Solution idea:** Proposed automation
+*Auto-updated by DeepBlue.*
