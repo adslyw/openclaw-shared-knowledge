@@ -215,6 +215,18 @@ Don't wait for permission to improve. If you learned something, write it down no
 ### [Topic]
 [What you learned and how to do it better]
 
+### Git Clone Troubleshooting
+When encountering `GnuTLS recv error (-9): Error decoding TLS packet` during Git clone, increase `http.postBuffer` and use `--depth 1` for shallow clones.
+
+### Python Dependency Management
+Always use virtual environments (e.g., `.venv`) for Python projects to avoid system-wide conflicts, especially with PEP 668.
+
+### Service Persistence
+Critical background services should be configured as system services (e.g., systemd, tmux) to ensure automatic restart and high availability.
+
+### Proactive Monitoring
+Implement regular health checks and status updates for core services to identify and resolve issues promptly.
+
 ---
 
 ## Star Office Sync
