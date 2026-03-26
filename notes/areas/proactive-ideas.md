@@ -16,3 +16,13 @@
 - TVBox 配置一键导出（包含所有站点最新分类）
 - 资源访问量统计仪表盘（基于 request logs）
 - 自动封面图抓取（针对自定义 CMS）
+
+## 2026-03-26 (2)
+
+**Idea: AppleCategory 变更即时通知**
+
+- **Problem:** 分类数据同步完成后，管理员不知道何时更新、更新了多少，需要手动查看。
+- **Solution:** 在 `AppleCategorySyncService.sync` 完成后，通过飞书 Bot 发送通知到管理群。消息包括：站点名、同步时间、新增/更新/删除的分类数量。可配置通知阈值（如仅当变化 > 5 时发送）。
+- **Delight factor:** 信息透明，及时发现数据异常，减少管理盲区。
+- **Implementation effort:** ~1 hour (integrate feishu messaging, add summary stats to sync result, hook into task completion signal).
+- **Bonus:** 在 Admin 列表中显示"最后同步时间"-column.
