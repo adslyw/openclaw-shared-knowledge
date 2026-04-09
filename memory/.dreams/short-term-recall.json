@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T11:49:07.380Z",
+  "updatedAt": "2026-04-09T12:49:07.165Z",
   "entries": {
     "memory:memory/2026-04-07.md:3:3": {
       "key": "memory:memory/2026-04-07.md:3:3",
@@ -17187,13 +17187,13 @@
       "startLine": 138,
       "endLine": 141,
       "source": "memory",
-      "snippet": "Reflections: Theme: `assistant` kept surfacing across 492 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:7-7; note: reflection",
+      "snippet": "Reflections: Theme: `运行` kept surfacing across 287 memories.; confidence: 0.79; evidence: memory/.dreams/session-corpus/2026-04-08.txt:29-29, memory/.dreams/session-corpus/2026-04-08.txt:31-31, memory/.dreams/session-corpus/2026-04-08.txt:32-32; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T07:32:20.858Z",
-      "lastRecalledAt": "2026-04-09T11:49:06.558Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -17201,13 +17201,13 @@
         "2026-04-09"
       ],
       "conceptTags": [
-        "1.00",
-        "2-2",
-        "4-4",
-        "7-7",
+        "0.79",
+        "29-29",
+        "31-31",
+        "32-32",
         "reflections",
         "theme",
-        "assistant",
+        "运行",
         "kept"
       ]
     },
@@ -20947,13 +20947,13 @@
       "startLine": 142,
       "endLine": 145,
       "source": "memory",
-      "snippet": "Reflections: Theme: `检查` kept surfacing across 266 memories.; confidence: 0.78; evidence: memory/.dreams/session-corpus/2026-04-08.txt:26-26, memory/.dreams/session-corpus/2026-04-08.txt:27-27, memory/.dreams/session-corpus/2026-04-08.txt:28-28; note: reflection",
+      "snippet": "Reflections: Theme: `系统` kept surfacing across 286 memories.; confidence: 0.79; evidence: memory/.dreams/session-corpus/2026-04-08.txt:29-29, memory/.dreams/session-corpus/2026-04-08.txt:31-31, memory/.dreams/session-corpus/2026-04-08.txt:32-32; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T11:49:06.558Z",
-      "lastRecalledAt": "2026-04-09T11:49:06.558Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -20961,13 +20961,13 @@
         "2026-04-09"
       ],
       "conceptTags": [
-        "0.78",
-        "26-26",
-        "27-27",
-        "28-28",
+        "0.79",
+        "29-29",
+        "31-31",
+        "32-32",
         "reflections",
         "theme",
-        "检查",
+        "系统",
         "kept"
       ]
     },
@@ -20977,13 +20977,13 @@
       "startLine": 146,
       "endLine": 149,
       "source": "memory",
-      "snippet": "Reflections: Theme: `一下` kept surfacing across 265 memories.; confidence: 0.78; evidence: memory/.dreams/session-corpus/2026-04-08.txt:27-27, memory/.dreams/session-corpus/2026-04-08.txt:28-28, memory/.dreams/session-corpus/2026-04-08.txt:29-29; note: reflection",
+      "snippet": "Reflections: Theme: `情况` kept surfacing across 284 memories.; confidence: 0.78; evidence: memory/.dreams/session-corpus/2026-04-08.txt:28-28, memory/.dreams/session-corpus/2026-04-08.txt:29-29, memory/.dreams/session-corpus/2026-04-08.txt:32-32; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T11:49:06.558Z",
-      "lastRecalledAt": "2026-04-09T11:49:06.558Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -20992,12 +20992,12 @@
       ],
       "conceptTags": [
         "0.78",
-        "27-27",
         "28-28",
         "29-29",
+        "32-32",
         "reflections",
         "theme",
-        "一下",
+        "情况",
         "kept"
       ]
     },
@@ -21617,13 +21617,13 @@
       "startLine": 143,
       "endLine": 146,
       "source": "memory",
-      "snippet": "Reflections: Theme: `assistant` kept surfacing across 492 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:7-7; note: reflection",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 518 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:7-7; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T11:49:06.558Z",
-      "lastRecalledAt": "2026-04-09T11:49:06.558Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -21647,13 +21647,13 @@
       "startLine": 147,
       "endLine": 150,
       "source": "memory",
-      "snippet": "Reflections: Theme: `检查` kept surfacing across 266 memories.; confidence: 0.78; evidence: memory/.dreams/session-corpus/2026-04-08.txt:26-26, memory/.dreams/session-corpus/2026-04-08.txt:27-27, memory/.dreams/session-corpus/2026-04-08.txt:28-28; note: reflection",
+      "snippet": "Reflections: Theme: `检查` kept surfacing across 292 memories.; confidence: 0.81; evidence: memory/.dreams/session-corpus/2026-04-08.txt:26-26, memory/.dreams/session-corpus/2026-04-08.txt:27-27, memory/.dreams/session-corpus/2026-04-08.txt:28-28; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T11:49:06.558Z",
-      "lastRecalledAt": "2026-04-09T11:49:06.558Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -21661,7 +21661,7 @@
         "2026-04-09"
       ],
       "conceptTags": [
-        "0.78",
+        "0.81",
         "26-26",
         "27-27",
         "28-28",
@@ -21677,13 +21677,13 @@
       "startLine": 151,
       "endLine": 154,
       "source": "memory",
-      "snippet": "Reflections: Theme: `一下` kept surfacing across 265 memories.; confidence: 0.78; evidence: memory/.dreams/session-corpus/2026-04-08.txt:27-27, memory/.dreams/session-corpus/2026-04-08.txt:28-28, memory/.dreams/session-corpus/2026-04-08.txt:29-29; note: reflection",
+      "snippet": "Reflections: Theme: `一下` kept surfacing across 291 memories.; confidence: 0.80; evidence: memory/.dreams/session-corpus/2026-04-08.txt:27-27, memory/.dreams/session-corpus/2026-04-08.txt:28-28, memory/.dreams/session-corpus/2026-04-08.txt:29-29; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T11:49:06.558Z",
-      "lastRecalledAt": "2026-04-09T11:49:06.558Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -21691,7 +21691,7 @@
         "2026-04-09"
       ],
       "conceptTags": [
-        "0.78",
+        "0.80",
         "27-27",
         "28-28",
         "29-29",
@@ -21707,13 +21707,13 @@
       "startLine": 155,
       "endLine": 158,
       "source": "memory",
-      "snippet": "Reflections: Theme: `最近` kept surfacing across 263 memories.; confidence: 0.77; evidence: memory/.dreams/session-corpus/2026-04-08.txt:26-26, memory/.dreams/session-corpus/2026-04-08.txt:27-27, memory/.dreams/session-corpus/2026-04-08.txt:28-28; note: reflection",
+      "snippet": "Reflections: Theme: `最近` kept surfacing across 289 memories.; confidence: 0.80; evidence: memory/.dreams/session-corpus/2026-04-08.txt:26-26, memory/.dreams/session-corpus/2026-04-08.txt:27-27, memory/.dreams/session-corpus/2026-04-08.txt:28-28; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T11:49:06.558Z",
-      "lastRecalledAt": "2026-04-09T11:49:06.558Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -21721,7 +21721,7 @@
         "2026-04-09"
       ],
       "conceptTags": [
-        "0.77",
+        "0.80",
         "26-26",
         "27-27",
         "28-28",
@@ -21737,13 +21737,13 @@
       "startLine": 159,
       "endLine": 162,
       "source": "memory",
-      "snippet": "Reflections: Theme: `状态` kept surfacing across 262 memories.; confidence: 0.77; evidence: memory/.dreams/session-corpus/2026-04-08.txt:27-27, memory/.dreams/session-corpus/2026-04-08.txt:29-29, memory/.dreams/session-corpus/2026-04-08.txt:30-30; note: reflection",
+      "snippet": "Reflections: Theme: `状态` kept surfacing across 288 memories.; confidence: 0.79; evidence: memory/.dreams/session-corpus/2026-04-08.txt:27-27, memory/.dreams/session-corpus/2026-04-08.txt:29-29, memory/.dreams/session-corpus/2026-04-08.txt:30-30; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T11:49:06.558Z",
-      "lastRecalledAt": "2026-04-09T11:49:06.558Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -21751,7 +21751,7 @@
         "2026-04-09"
       ],
       "conceptTags": [
-        "0.77",
+        "0.79",
         "27-27",
         "29-29",
         "30-30",
@@ -21767,13 +21767,13 @@
       "startLine": 163,
       "endLine": 166,
       "source": "memory",
-      "snippet": "Reflections: Theme: `运行` kept surfacing across 261 memories.; confidence: 0.77; evidence: memory/.dreams/session-corpus/2026-04-08.txt:29-29, memory/.dreams/session-corpus/2026-04-08.txt:31-31, memory/.dreams/session-corpus/2026-04-08.txt:32-32; note: reflection",
+      "snippet": "Reflections: Theme: `运行` kept surfacing across 287 memories.; confidence: 0.79; evidence: memory/.dreams/session-corpus/2026-04-08.txt:29-29, memory/.dreams/session-corpus/2026-04-08.txt:31-31, memory/.dreams/session-corpus/2026-04-08.txt:32-32; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T11:49:06.558Z",
-      "lastRecalledAt": "2026-04-09T11:49:06.558Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -21781,7 +21781,7 @@
         "2026-04-09"
       ],
       "conceptTags": [
-        "0.77",
+        "0.79",
         "29-29",
         "31-31",
         "32-32",
@@ -21797,13 +21797,13 @@
       "startLine": 167,
       "endLine": 170,
       "source": "memory",
-      "snippet": "Reflections: Theme: `系统` kept surfacing across 260 memories.; confidence: 0.76; evidence: memory/.dreams/session-corpus/2026-04-08.txt:29-29, memory/.dreams/session-corpus/2026-04-08.txt:31-31, memory/.dreams/session-corpus/2026-04-08.txt:32-32; note: reflection",
+      "snippet": "Reflections: Theme: `系统` kept surfacing across 286 memories.; confidence: 0.79; evidence: memory/.dreams/session-corpus/2026-04-08.txt:29-29, memory/.dreams/session-corpus/2026-04-08.txt:31-31, memory/.dreams/session-corpus/2026-04-08.txt:32-32; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T11:49:06.558Z",
-      "lastRecalledAt": "2026-04-09T11:49:06.558Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -21811,7 +21811,7 @@
         "2026-04-09"
       ],
       "conceptTags": [
-        "0.76",
+        "0.79",
         "29-29",
         "31-31",
         "32-32",
@@ -21827,13 +21827,13 @@
       "startLine": 171,
       "endLine": 174,
       "source": "memory",
-      "snippet": "Reflections: Theme: `情况` kept surfacing across 258 memories.; confidence: 0.76; evidence: memory/.dreams/session-corpus/2026-04-08.txt:28-28, memory/.dreams/session-corpus/2026-04-08.txt:29-29, memory/.dreams/session-corpus/2026-04-08.txt:32-32; note: reflection",
+      "snippet": "Reflections: Theme: `情况` kept surfacing across 284 memories.; confidence: 0.78; evidence: memory/.dreams/session-corpus/2026-04-08.txt:28-28, memory/.dreams/session-corpus/2026-04-08.txt:29-29, memory/.dreams/session-corpus/2026-04-08.txt:32-32; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T11:49:06.558Z",
-      "lastRecalledAt": "2026-04-09T11:49:06.558Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -21841,7 +21841,7 @@
         "2026-04-09"
       ],
       "conceptTags": [
-        "0.76",
+        "0.78",
         "28-28",
         "29-29",
         "32-32",
@@ -21863,7 +21863,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T11:49:06.558Z",
-      "lastRecalledAt": "2026-04-09T11:49:06.558Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -22233,6 +22233,988 @@
       "maxScore": 0.58,
       "firstRecalledAt": "2026-04-09T11:49:06.558Z",
       "lastRecalledAt": "2026-04-09T11:49:06.558Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:415:415": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:415:415",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 415,
+      "endLine": 415,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:416:416": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:416:416",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 416,
+      "endLine": 416,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"openclaw-weixin:1775618029439-4f2487ac\", \"timestamp\": \"Wed 2026-04-08 11:13 GMT+8\" } ``` 检查结果如何",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "message-id",
+        "openclaw-weixin",
+        "1775618029439-4f2487ac",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:417:417": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:417:417",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 417,
+      "endLine": 417,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:418:418": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:418:418",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 418,
+      "endLine": 418,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:419:419": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:419:419",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 419,
+      "endLine": 419,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:420:420": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:420:420",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 420,
+      "endLine": 420,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:421:421": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:421:421",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 421,
+      "endLine": 421,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:422:422": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:422:422",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 422,
+      "endLine": 422,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:423:423": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:423:423",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 423,
+      "endLine": 423,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:424:424": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:424:424",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 424,
+      "endLine": 424,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:425:425": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:425:425",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 425,
+      "endLine": 425,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:426:426": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:426:426",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 426,
+      "endLine": 426,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:47:47": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:47:47",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 47,
+      "endLine": 47,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Thursday, April 9th, 2026 - 19:51 (Asia/Shanghai) / 2026-04-09 11:51 UTC Return your summary as plain text; it will be delivered automati",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:48:48": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:48:48",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 48,
+      "endLine": 48,
+      "source": "memory",
+      "snippet": "Assistant: 知识同步任务已完成。脚本成功同步了核心配置文件、记忆文件、笔记目录和技能文档，并完成了Git远程推送。 同步结果： - 同步了 SOUL.md、USER.md、AGENTS.md 等核心文件到 core/ 目录 - 同步了 memory/ 和 notes/ 目录 - 同步了 skills/ 文档 - 同步了 star-office 状态（已脱敏） - Git 拉取并合并了远程变更 - 推送了 8 个文件变更（1544 行新增，95 行删除）到远程仓库 同步状态已保存至 last-sync-state.json 文件。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "soul.md",
+        "user.md",
+        "agents.md",
+        "star-office",
+        "last-sync-state.json",
+        "assistant",
+        "知识",
+        "同步"
+      ]
+    },
+    "memory:memory/2026-04-09.md:118:121": {
+      "key": "memory:memory/2026-04-09.md:118:121",
+      "path": "memory/2026-04-09.md",
+      "startLine": 118,
+      "endLine": 121,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 518 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:7-7; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "4-4",
+        "7-7",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-09.md:122:125": {
+      "key": "memory:memory/2026-04-09.md:122:125",
+      "path": "memory/2026-04-09.md",
+      "startLine": 122,
+      "endLine": 125,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `检查` kept surfacing across 292 memories.; confidence: 0.81; evidence: memory/.dreams/session-corpus/2026-04-08.txt:26-26, memory/.dreams/session-corpus/2026-04-08.txt:27-27, memory/.dreams/session-corpus/2026-04-08.txt:28-28; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "0.81",
+        "26-26",
+        "27-27",
+        "28-28",
+        "reflections",
+        "theme",
+        "检查",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-09.md:126:129": {
+      "key": "memory:memory/2026-04-09.md:126:129",
+      "path": "memory/2026-04-09.md",
+      "startLine": 126,
+      "endLine": 129,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `一下` kept surfacing across 291 memories.; confidence: 0.80; evidence: memory/.dreams/session-corpus/2026-04-08.txt:27-27, memory/.dreams/session-corpus/2026-04-08.txt:28-28, memory/.dreams/session-corpus/2026-04-08.txt:29-29; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "0.80",
+        "27-27",
+        "28-28",
+        "29-29",
+        "reflections",
+        "theme",
+        "一下",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-09.md:130:133": {
+      "key": "memory:memory/2026-04-09.md:130:133",
+      "path": "memory/2026-04-09.md",
+      "startLine": 130,
+      "endLine": 133,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `最近` kept surfacing across 289 memories.; confidence: 0.80; evidence: memory/.dreams/session-corpus/2026-04-08.txt:26-26, memory/.dreams/session-corpus/2026-04-08.txt:27-27, memory/.dreams/session-corpus/2026-04-08.txt:28-28; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "0.80",
+        "26-26",
+        "27-27",
+        "28-28",
+        "reflections",
+        "theme",
+        "最近",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-09.md:134:137": {
+      "key": "memory:memory/2026-04-09.md:134:137",
+      "path": "memory/2026-04-09.md",
+      "startLine": 134,
+      "endLine": 137,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `状态` kept surfacing across 288 memories.; confidence: 0.79; evidence: memory/.dreams/session-corpus/2026-04-08.txt:27-27, memory/.dreams/session-corpus/2026-04-08.txt:29-29, memory/.dreams/session-corpus/2026-04-08.txt:30-30; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "0.79",
+        "27-27",
+        "29-29",
+        "30-30",
+        "reflections",
+        "theme",
+        "状态",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-09.md:152:152": {
+      "key": "memory:memory/2026-04-09.md:152:152",
+      "path": "memory/2026-04-09.md",
+      "startLine": 152,
+      "endLine": 152,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:427:427": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:427:427",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 427,
+      "endLine": 427,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:428:428": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:428:428",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 428,
+      "endLine": 428,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:429:429": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:429:429",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 429,
+      "endLine": 429,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:430:430": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:430:430",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 430,
+      "endLine": 430,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:431:431": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:431:431",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 431,
+      "endLine": 431,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:432:432": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:432:432",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 432,
+      "endLine": 432,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:433:433": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:433:433",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 433,
+      "endLine": 433,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:434:434": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:434:434",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 434,
+      "endLine": 434,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:435:435": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:435:435",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 435,
+      "endLine": 435,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:436:436": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:436:436",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 436,
+      "endLine": 436,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:437:437": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:437:437",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 437,
+      "endLine": 437,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:438:438": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:438:438",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 438,
+      "endLine": 438,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T12:49:06.555Z",
+      "lastRecalledAt": "2026-04-09T12:49:06.555Z",
       "queryHashes": [
         "dd2a162d175b"
       ],
