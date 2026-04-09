@@ -92,3 +92,27 @@
 [main/sessions/afdc4d66-6670-4881-a407-3b7d0d0736c7.jsonl.reset.2026-04-07T21-00-09.825Z#L39] User: Conversation info (untrusted metadata): ```json { "message_id": "openclaw-weixin:1775578435373-674cc5eb", "timestamp": "Wed 2026-04-08 00:13 GMT+8" } ``` 那最近一周有主动学习改进持续优化吗
 [main/sessions/afdc4d66-6670-4881-a407-3b7d0d0736c7.jsonl.reset.2026-04-07T21-00-09.825Z#L40] Assistant: 让我查看最近一周的主动学习记录：
 [main/sessions/afdc4d66-6670-4881-a407-3b7d0d0736c7.jsonl.reset.2026-04-07T21-00-09.825Z#L817] User: Conversation info (untrusted metadata): ```json { "message_id": "openclaw-weixin:1775583001180-8dfc8b25", "timestamp": "Wed 2026-04-08 00:19 GMT+8" } ``` ？
+[main/sessions/521598eb-5d47-4f2e-9f40-74781434967f.jsonl#L128] Assistant: 让我检查一下最近的系统状态和运行情况。
+[main/sessions/521598eb-5d47-4f2e-9f40-74781434967f.jsonl#L130] Assistant: 让我检查一下最近的系统状态和运行情况。
+[main/sessions/521598eb-5d47-4f2e-9f40-74781434967f.jsonl#L132] Assistant: 让我检查一下最近的系统状态和运行情况。
+[main/sessions/521598eb-5d47-4f2e-9f40-74781434967f.jsonl#L134] Assistant: 让我检查一下最近的系统状态和运行情况。
+[main/sessions/521598eb-5d47-4f2e-9f40-74781434967f.jsonl#L136] Assistant: 让我检查一下最近的系统状态和运行情况。
+[main/sessions/521598eb-5d47-4f2e-9f40-74781434967f.jsonl#L138] Assistant: 让我检查一下最近的系统状态和运行情况。
+[main/sessions/521598eb-5d47-4f2e-9f40-74781434967f.jsonl#L140] Assistant: 让我检查一下最近的系统状态和运行情况。
+[main/sessions/521598eb-5d47-4f2e-9f40-74781434967f.jsonl#L142] Assistant: 让我检查一下最近的系统状态和运行情况。
+[main/sessions/521598eb-5d47-4f2e-9f40-74781434967f.jsonl#L144] Assistant: 让我检查一下最近的系统状态和运行情况。
+[main/sessions/521598eb-5d47-4f2e-9f40-74781434967f.jsonl#L146] Assistant: 让我检查一下最近的系统状态和运行情况。
+[main/sessions/521598eb-5d47-4f2e-9f40-74781434967f.jsonl#L148] Assistant: 让我检查一下最近的系统状态和运行情况。
+[main/sessions/521598eb-5d47-4f2e-9f40-74781434967f.jsonl#L150] Assistant: 让我检查一下最近的系统状态和运行情况。
+[main/sessions/521598eb-5d47-4f2e-9f40-74781434967f.jsonl#L152] Assistant: 让我检查一下最近的系统状态和运行情况。
+[main/sessions/521598eb-5d47-4f2e-9f40-74781434967f.jsonl#L154] Assistant: 让我检查一下最近的系统状态和运行情况。
+[main/sessions/521598eb-5d47-4f2e-9f40-74781434967f.jsonl#L156] Assistant: 让我检查一下最近的系统状态和运行情况。
+[main/sessions/521598eb-5d47-4f2e-9f40-74781434967f.jsonl#L158] Assistant: 让我检查一下最近的系统状态和运行情况。
+[main/sessions/521598eb-5d47-4f2e-9f40-74781434967f.jsonl#L160] Assistant: 让我检查一下最近的系统状态和运行情况。
+[main/sessions/521598eb-5d47-4f2e-9f40-74781434967f.jsonl#L162] Assistant: 让我检查一下最近的系统状态和运行情况。
+[main/sessions/521598eb-5d47-4f2e-9f40-74781434967f.jsonl#L164] Assistant: 让我检查一下最近的系统状态和运行情况。
+[main/sessions/521598eb-5d47-4f2e-9f40-74781434967f.jsonl#L166] Assistant: 让我检查一下最近的系统状态和运行情况。
+[main/sessions/521598eb-5d47-4f2e-9f40-74781434967f.jsonl#L168] Assistant: 让我检查一下最近的系统状态和运行情况。
+[main/sessions/521598eb-5d47-4f2e-9f40-74781434967f.jsonl#L170] Assistant: 让我检查一下最近的系统状态和运行情况。
+[main/sessions/521598eb-5d47-4f2e-9f40-74781434967f.jsonl#L172] Assistant: 让我检查一下最近的系统状态和运行情况。
+[main/sessions/521598eb-5d47-4f2e-9f40-74781434967f.jsonl#L174] Assistant: 让我检查一下最近的系统状态和运行情况。
