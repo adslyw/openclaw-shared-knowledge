@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T01:32:21.226Z",
+  "updatedAt": "2026-04-09T02:32:21.291Z",
   "entries": {
     "memory:memory/2026-04-07.md:3:3": {
       "key": "memory:memory/2026-04-07.md:3:3",
@@ -7536,13 +7536,13 @@
       "startLine": 368,
       "endLine": 371,
       "source": "memory",
-      "snippet": "Reflections: Theme: `assistant` kept surfacing across 129 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:7-7; note: reflection",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 173 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:7-7; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T01:32:20.844Z",
-      "lastRecalledAt": "2026-04-09T01:32:20.844Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -8344,6 +8344,1631 @@
       "maxScore": 0.58,
       "firstRecalledAt": "2026-04-09T01:32:20.844Z",
       "lastRecalledAt": "2026-04-09T01:32:20.844Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/2026-04-09.md:374:374": {
+      "key": "memory:memory/2026-04-09.md:374:374",
+      "path": "memory/2026-04-09.md",
+      "startLine": 374,
+      "endLine": 374,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-07.txt:119:119": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-07.txt:119:119",
+      "path": "memory/.dreams/session-corpus/2026-04-07.txt",
+      "startLine": 119,
+      "endLine": 119,
+      "source": "memory",
+      "snippet": "Assistant: 我尝试访问 `http://localhost:3456/api/sync` 并发送了一个 POST 请求。 **返回结果：** ``` <!DOCTYPE html> <html lang=\"en\"> <head> <meta charset=\"utf-8\"> <title>Error</title> </head> <body> <pre>Internal Server Error</pre> </body> </html> ``` 这表示服务器返回了 **\"Internal Server Error\"**。 **这通常意味着：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "9b96ec1785a8"
+      ],
+      "recallDays": [
+        "2026-04-07",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "3456/api/sync",
+        "utf-8",
+        "assistant",
+        "尝试",
+        "访问",
+        "http",
+        "localhost",
+        "api"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-07.txt:120:120": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-07.txt:120:120",
+      "path": "memory/.dreams/session-corpus/2026-04-07.txt",
+      "startLine": 120,
+      "endLine": 120,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "9b96ec1785a8"
+      ],
+      "recallDays": [
+        "2026-04-07",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-07.txt:121:121": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-07.txt:121:121",
+      "path": "memory/.dreams/session-corpus/2026-04-07.txt",
+      "startLine": 121,
+      "endLine": 121,
+      "source": "memory",
+      "snippet": "Assistant: **Evaluating HEARTBEAT.md and system status** I've reviewed the `HEARTBEAT.md` file. It outlines several checks: Security Check, Self-Healing Check, Proactive Surprise Check, System Cleanup, Memory Maintenance, Memory Flush, Reverse Prompting, and Proactive Work. The S",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "9b96ec1785a8"
+      ],
+      "recallDays": [
+        "2026-04-07",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "self-healing",
+        "assistant",
+        "evaluating",
+        "system",
+        "status",
+        "i've",
+        "reviewed"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-07.txt:122:122": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-07.txt:122:122",
+      "path": "memory/.dreams/session-corpus/2026-04-07.txt",
+      "startLine": 122,
+      "endLine": 122,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "9b96ec1785a8"
+      ],
+      "recallDays": [
+        "2026-04-07",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-07.txt:123:123": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-07.txt:123:123",
+      "path": "memory/.dreams/session-corpus/2026-04-07.txt",
+      "startLine": 123,
+      "endLine": 123,
+      "source": "memory",
+      "snippet": "Assistant: Recurring WeChat session expiration errors detected in logs.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "9b96ec1785a8"
+      ],
+      "recallDays": [
+        "2026-04-07",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "recurring",
+        "wechat",
+        "expiration",
+        "errors",
+        "detected",
+        "logs"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-07.txt:124:124": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-07.txt:124:124",
+      "path": "memory/.dreams/session-corpus/2026-04-07.txt",
+      "startLine": 124,
+      "endLine": 124,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "9b96ec1785a8"
+      ],
+      "recallDays": [
+        "2026-04-07",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-07.txt:125:125": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-07.txt:125:125",
+      "path": "memory/.dreams/session-corpus/2026-04-07.txt",
+      "startLine": 125,
+      "endLine": 125,
+      "source": "memory",
+      "snippet": "Assistant: Recurring WeChat session expiration errors detected in logs.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "9b96ec1785a8"
+      ],
+      "recallDays": [
+        "2026-04-07",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "recurring",
+        "wechat",
+        "expiration",
+        "errors",
+        "detected",
+        "logs"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-07.txt:126:126": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-07.txt:126:126",
+      "path": "memory/.dreams/session-corpus/2026-04-07.txt",
+      "startLine": 126,
+      "endLine": 126,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-tui\", \"id\": \"openclaw-tui\", \"name\": \"openclaw-tui\", \"username\": \"openclaw-tui\" } ``` [Tue 2026-04-07 13:00 GMT+8] 帮我重新绑定weixin",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "9b96ec1785a8"
+      ],
+      "recallDays": [
+        "2026-04-07",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-tui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "tui"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-07.txt:127:127": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-07.txt:127:127",
+      "path": "memory/.dreams/session-corpus/2026-04-07.txt",
+      "startLine": 127,
+      "endLine": 127,
+      "source": "memory",
+      "snippet": "Assistant: 您好！关于“重新绑定微信”的操作，这通常意味着需要更新微信账号的认证凭证（例如 API Key、Token 或 App Secret），以重新建立连接并解决会话过期的 (`session expired`) 问题。 查看 `openclaw.json` 配置文件，在 `channels.openclaw-weixin.accounts` 部分目前是空的 `{}`，这可能表示微信账号的配置信息缺失或需要更新。 为了完成微信账号的重新绑定，我需要您提供相应的认证信息。请问您持有以下哪些信息，可以用于重新绑定微信账号？ * **API K",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "9b96ec1785a8"
+      ],
+      "recallDays": [
+        "2026-04-07",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw.json",
+        "assistant",
+        "您好",
+        "关于",
+        "重新",
+        "操作",
+        "通常",
+        "意味"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-07.txt:128:128": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-07.txt:128:128",
+      "path": "memory/.dreams/session-corpus/2026-04-07.txt",
+      "startLine": 128,
+      "endLine": 128,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "9b96ec1785a8"
+      ],
+      "recallDays": [
+        "2026-04-07",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-07.txt:129:129": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-07.txt:129:129",
+      "path": "memory/.dreams/session-corpus/2026-04-07.txt",
+      "startLine": 129,
+      "endLine": 129,
+      "source": "memory",
+      "snippet": "Assistant: Recurring WeChat session expiration errors detected in logs.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "9b96ec1785a8"
+      ],
+      "recallDays": [
+        "2026-04-07",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "recurring",
+        "wechat",
+        "expiration",
+        "errors",
+        "detected",
+        "logs"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-07.txt:130:130": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-07.txt:130:130",
+      "path": "memory/.dreams/session-corpus/2026-04-07.txt",
+      "startLine": 130,
+      "endLine": 130,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "9b96ec1785a8"
+      ],
+      "recallDays": [
+        "2026-04-07",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:119:119": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:119:119",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 119,
+      "endLine": 119,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:120:120": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:120:120",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 120,
+      "endLine": 120,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:121:121": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:121:121",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 121,
+      "endLine": 121,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:122:122": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:122:122",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 122,
+      "endLine": 122,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:123:123": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:123:123",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 123,
+      "endLine": 123,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:124:124": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:124:124",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 124,
+      "endLine": 124,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:125:125": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:125:125",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 125,
+      "endLine": 125,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:126:126": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:126:126",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 126,
+      "endLine": 126,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:127:127": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:127:127",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 127,
+      "endLine": 127,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:128:128": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:128:128",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 128,
+      "endLine": 128,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:129:129": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:129:129",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 129,
+      "endLine": 129,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:130:130": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:130:130",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 130,
+      "endLine": 130,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:23:23": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:23:23",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Thursday, April 9th, 2026 - 09:37 (Asia/Shanghai) / 2026-04-09 01:37 UTC Return your summary as plain text; it will be delivered automati",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:24:24": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:24:24",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "Assistant: 知识同步完成！ 本次同步结果： - 同步了核心配置文件 (SOUL.md, USER.md, AGENTS.md, HEARTBEAT.md, ONBOARDING.md) - 同步了 memory/ 和 notes/ 目录 - 同步了 skills/ 文档 - 同步了 star-office 状态 - Git 拉取远程变更并推送了 9 个文件变更（2148 行新增，168 行删除） - 状态已保存至 last-sync-state.json",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "soul.md",
+        "user.md",
+        "agents.md",
+        "heartbeat.md",
+        "onboarding.md",
+        "star-office",
+        "last-sync-state.json",
+        "assistant"
+      ]
+    },
+    "memory:memory/2026-04-09.md:263:266": {
+      "key": "memory:memory/2026-04-09.md:263:266",
+      "path": "memory/2026-04-09.md",
+      "startLine": 263,
+      "endLine": 266,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 173 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:7-7; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "4-4",
+        "7-7",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-09.md:269:269": {
+      "key": "memory:memory/2026-04-09.md:269:269",
+      "path": "memory/2026-04-09.md",
+      "startLine": 269,
+      "endLine": 269,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-07.txt:131:131": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-07.txt:131:131",
+      "path": "memory/.dreams/session-corpus/2026-04-07.txt",
+      "startLine": 131,
+      "endLine": 131,
+      "source": "memory",
+      "snippet": "Assistant: Recurring WeChat session expiration errors detected in logs.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "9b96ec1785a8"
+      ],
+      "recallDays": [
+        "2026-04-07",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "recurring",
+        "wechat",
+        "expiration",
+        "errors",
+        "detected",
+        "logs"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-07.txt:132:132": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-07.txt:132:132",
+      "path": "memory/.dreams/session-corpus/2026-04-07.txt",
+      "startLine": 132,
+      "endLine": 132,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "9b96ec1785a8"
+      ],
+      "recallDays": [
+        "2026-04-07",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-07.txt:133:133": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-07.txt:133:133",
+      "path": "memory/.dreams/session-corpus/2026-04-07.txt",
+      "startLine": 133,
+      "endLine": 133,
+      "source": "memory",
+      "snippet": "Assistant: Recurring WeChat session expiration errors detected in logs.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "9b96ec1785a8"
+      ],
+      "recallDays": [
+        "2026-04-07",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "recurring",
+        "wechat",
+        "expiration",
+        "errors",
+        "detected",
+        "logs"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-07.txt:134:134": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-07.txt:134:134",
+      "path": "memory/.dreams/session-corpus/2026-04-07.txt",
+      "startLine": 134,
+      "endLine": 134,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "9b96ec1785a8"
+      ],
+      "recallDays": [
+        "2026-04-07",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-07.txt:135:135": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-07.txt:135:135",
+      "path": "memory/.dreams/session-corpus/2026-04-07.txt",
+      "startLine": 135,
+      "endLine": 135,
+      "source": "memory",
+      "snippet": "Assistant: Recurring WeChat session expiration errors detected in logs.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "9b96ec1785a8"
+      ],
+      "recallDays": [
+        "2026-04-07",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "recurring",
+        "wechat",
+        "expiration",
+        "errors",
+        "detected",
+        "logs"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-07.txt:136:136": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-07.txt:136:136",
+      "path": "memory/.dreams/session-corpus/2026-04-07.txt",
+      "startLine": 136,
+      "endLine": 136,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "9b96ec1785a8"
+      ],
+      "recallDays": [
+        "2026-04-07",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-07.txt:137:137": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-07.txt:137:137",
+      "path": "memory/.dreams/session-corpus/2026-04-07.txt",
+      "startLine": 137,
+      "endLine": 137,
+      "source": "memory",
+      "snippet": "Assistant: Recurring WeChat session expiration errors detected in logs.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "9b96ec1785a8"
+      ],
+      "recallDays": [
+        "2026-04-07",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "recurring",
+        "wechat",
+        "expiration",
+        "errors",
+        "detected",
+        "logs"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-07.txt:138:138": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-07.txt:138:138",
+      "path": "memory/.dreams/session-corpus/2026-04-07.txt",
+      "startLine": 138,
+      "endLine": 138,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "9b96ec1785a8"
+      ],
+      "recallDays": [
+        "2026-04-07",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-07.txt:139:139": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-07.txt:139:139",
+      "path": "memory/.dreams/session-corpus/2026-04-07.txt",
+      "startLine": 139,
+      "endLine": 139,
+      "source": "memory",
+      "snippet": "Assistant: Recurring WeChat session expiration errors detected in logs.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "9b96ec1785a8"
+      ],
+      "recallDays": [
+        "2026-04-07",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "recurring",
+        "wechat",
+        "expiration",
+        "errors",
+        "detected",
+        "logs"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-07.txt:140:140": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-07.txt:140:140",
+      "path": "memory/.dreams/session-corpus/2026-04-07.txt",
+      "startLine": 140,
+      "endLine": 140,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "9b96ec1785a8"
+      ],
+      "recallDays": [
+        "2026-04-07",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-07.txt:141:141": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-07.txt:141:141",
+      "path": "memory/.dreams/session-corpus/2026-04-07.txt",
+      "startLine": 141,
+      "endLine": 141,
+      "source": "memory",
+      "snippet": "Assistant: Recurring WeChat session expiration errors detected in logs.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "9b96ec1785a8"
+      ],
+      "recallDays": [
+        "2026-04-07",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "recurring",
+        "wechat",
+        "expiration",
+        "errors",
+        "detected",
+        "logs"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-07.txt:142:142": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-07.txt:142:142",
+      "path": "memory/.dreams/session-corpus/2026-04-07.txt",
+      "startLine": 142,
+      "endLine": 142,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "9b96ec1785a8"
+      ],
+      "recallDays": [
+        "2026-04-07",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:131:131": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:131:131",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 131,
+      "endLine": 131,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:132:132": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:132:132",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 132,
+      "endLine": 132,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:133:133": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:133:133",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 133,
+      "endLine": 133,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:134:134": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:134:134",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 134,
+      "endLine": 134,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:135:135": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:135:135",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 135,
+      "endLine": 135,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:136:136": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:136:136",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 136,
+      "endLine": 136,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:137:137": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:137:137",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 137,
+      "endLine": 137,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:138:138": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:138:138",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 138,
+      "endLine": 138,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:139:139": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:139:139",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 139,
+      "endLine": 139,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:140:140": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:140:140",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 140,
+      "endLine": 140,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:141:141": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:141:141",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 141,
+      "endLine": 141,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "检查",
+        "一下",
+        "最近",
+        "系统",
+        "状态",
+        "运行",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:142:142": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:142:142",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 142,
+      "endLine": 142,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查一下最近的系统状态和运行情况。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T02:32:20.808Z",
+      "lastRecalledAt": "2026-04-09T02:32:20.808Z",
       "queryHashes": [
         "dd2a162d175b"
       ],
