@@ -212,3 +212,5 @@
 [main/sessions/242592b8-4809-46fa-9c93-c3073366b776.jsonl#L432] Assistant: 项目使用了虚拟环境 `venv`。我将使用虚拟环境中的 Python 来运行脚本：
 [main/sessions/242592b8-4809-46fa-9c93-c3073366b776.jsonl#L434] Assistant: 现在使用虚拟环境中的 Python 来运行：
 [main/sessions/242592b8-4809-46fa-9c93-c3073366b776.jsonl#L436] Assistant: 结果显示 0 条记录，这可能有问题。让我检查一下数据库中的实际数据状态。先确认数据库文件路径和记录数量：
+[main/sessions/242592b8-4809-46fa-9c93-c3073366b776.jsonl#L438] Assistant: 有 1001 条 `resource_type='media'` 的记录。之前我们用纯 SQL 查询到 928 条空记录，说明很多是 NULL。 我之前的 Django 查询用了 `resource_url=''` 和 `poster=''`，这不会匹配 NULL 值。需要修改。 让我更新脚本，正确处理 NULL：
+[main/sessions/242592b8-4809-46fa-9c93-c3073366b776.jsonl#L442] Assistant: 太好了！我们成功得到了域名分组统计。总共有 **71 个不同的域名**，共 **928 条**空记录。 **top 10 域名：** - `surrit.com`: 266 - `missav.ai`: 127 - `msavx.com`: 88 - `www.viexx.com`: 62 - `ckblfoghkjhaclegefojbgllenffajdc`: 58 (疑似混淆域名) - `de.eporner.com`: 45 - `missav123.com`: 37 - `porncvd.com`: 29 - `avple
