@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-10T07:00:00.853Z",
+  "updatedAt": "2026-04-10T08:00:00.835Z",
   "entries": {
     "memory:memory/2026-04-07.md:3:3": {
       "key": "memory:memory/2026-04-07.md:3:3",
@@ -32069,14 +32069,14 @@
       "startLine": 198,
       "endLine": 201,
       "source": "memory",
-      "snippet": "Reflections: Theme: `assistant` kept surfacing across 710 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:7-7; note: reflection",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 712 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:7-7; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T07:00:00.853Z",
-      "lastRecalledAt": "2026-04-10T07:00:00.853Z",
+      "lastRecalledAt": "2026-04-10T08:00:00.835Z",
       "queryHashes": [
         "ed3026e16517"
       ],
@@ -32100,14 +32100,14 @@
       "startLine": 202,
       "endLine": 205,
       "source": "memory",
-      "snippet": "Reflections: Theme: `检查` kept surfacing across 423 memories.; confidence: 0.84; evidence: memory/.dreams/session-corpus/2026-04-08.txt:26-26, memory/.dreams/session-corpus/2026-04-08.txt:27-27, memory/.dreams/session-corpus/2026-04-08.txt:28-28; note: reflection",
+      "snippet": "Reflections: Theme: `检查` kept surfacing across 424 memories.; confidence: 0.83; evidence: memory/.dreams/session-corpus/2026-04-08.txt:26-26, memory/.dreams/session-corpus/2026-04-08.txt:27-27, memory/.dreams/session-corpus/2026-04-08.txt:28-28; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T07:00:00.853Z",
-      "lastRecalledAt": "2026-04-10T07:00:00.853Z",
+      "lastRecalledAt": "2026-04-10T08:00:00.835Z",
       "queryHashes": [
         "ed3026e16517"
       ],
@@ -32115,7 +32115,7 @@
         "2026-04-10"
       ],
       "conceptTags": [
-        "0.84",
+        "0.83",
         "26-26",
         "27-27",
         "28-28",
@@ -32131,14 +32131,14 @@
       "startLine": 206,
       "endLine": 209,
       "source": "memory",
-      "snippet": "Reflections: Theme: `一下` kept surfacing across 422 memories.; confidence: 0.84; evidence: memory/.dreams/session-corpus/2026-04-08.txt:27-27, memory/.dreams/session-corpus/2026-04-08.txt:28-28, memory/.dreams/session-corpus/2026-04-08.txt:29-29; note: reflection",
+      "snippet": "Reflections: Theme: `一下` kept surfacing across 423 memories.; confidence: 0.83; evidence: memory/.dreams/session-corpus/2026-04-08.txt:27-27, memory/.dreams/session-corpus/2026-04-08.txt:28-28, memory/.dreams/session-corpus/2026-04-08.txt:29-29; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T07:00:00.853Z",
-      "lastRecalledAt": "2026-04-10T07:00:00.853Z",
+      "lastRecalledAt": "2026-04-10T08:00:00.835Z",
       "queryHashes": [
         "ed3026e16517"
       ],
@@ -32146,7 +32146,7 @@
         "2026-04-10"
       ],
       "conceptTags": [
-        "0.84",
+        "0.83",
         "27-27",
         "28-28",
         "29-29",
@@ -32162,14 +32162,14 @@
       "startLine": 210,
       "endLine": 213,
       "source": "memory",
-      "snippet": "Reflections: Theme: `最近` kept surfacing across 421 memories.; confidence: 0.83; evidence: memory/.dreams/session-corpus/2026-04-08.txt:26-26, memory/.dreams/session-corpus/2026-04-08.txt:27-27, memory/.dreams/session-corpus/2026-04-08.txt:28-28; note: reflection",
+      "snippet": "Reflections: Theme: `最近` kept surfacing across 422 memories.; confidence: 0.83; evidence: memory/.dreams/session-corpus/2026-04-08.txt:26-26, memory/.dreams/session-corpus/2026-04-08.txt:27-27, memory/.dreams/session-corpus/2026-04-08.txt:28-28; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T07:00:00.853Z",
-      "lastRecalledAt": "2026-04-10T07:00:00.853Z",
+      "lastRecalledAt": "2026-04-10T08:00:00.835Z",
       "queryHashes": [
         "ed3026e16517"
       ],
@@ -32193,14 +32193,14 @@
       "startLine": 214,
       "endLine": 217,
       "source": "memory",
-      "snippet": "Reflections: Theme: `状态` kept surfacing across 420 memories.; confidence: 0.83; evidence: memory/.dreams/session-corpus/2026-04-08.txt:27-27, memory/.dreams/session-corpus/2026-04-08.txt:29-29, memory/.dreams/session-corpus/2026-04-08.txt:30-30; note: reflection",
+      "snippet": "Reflections: Theme: `状态` kept surfacing across 421 memories.; confidence: 0.82; evidence: memory/.dreams/session-corpus/2026-04-08.txt:27-27, memory/.dreams/session-corpus/2026-04-08.txt:29-29, memory/.dreams/session-corpus/2026-04-08.txt:30-30; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T07:00:00.853Z",
-      "lastRecalledAt": "2026-04-10T07:00:00.853Z",
+      "lastRecalledAt": "2026-04-10T08:00:00.835Z",
       "queryHashes": [
         "ed3026e16517"
       ],
@@ -32208,7 +32208,7 @@
         "2026-04-10"
       ],
       "conceptTags": [
-        "0.83",
+        "0.82",
         "27-27",
         "29-29",
         "30-30",
@@ -32224,14 +32224,14 @@
       "startLine": 218,
       "endLine": 221,
       "source": "memory",
-      "snippet": "Reflections: Theme: `运行` kept surfacing across 419 memories.; confidence: 0.83; evidence: memory/.dreams/session-corpus/2026-04-08.txt:29-29, memory/.dreams/session-corpus/2026-04-08.txt:31-31, memory/.dreams/session-corpus/2026-04-08.txt:32-32; note: reflection",
+      "snippet": "Reflections: Theme: `运行` kept surfacing across 420 memories.; confidence: 0.82; evidence: memory/.dreams/session-corpus/2026-04-08.txt:29-29, memory/.dreams/session-corpus/2026-04-08.txt:31-31, memory/.dreams/session-corpus/2026-04-08.txt:32-32; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T07:00:00.853Z",
-      "lastRecalledAt": "2026-04-10T07:00:00.853Z",
+      "lastRecalledAt": "2026-04-10T08:00:00.835Z",
       "queryHashes": [
         "ed3026e16517"
       ],
@@ -32239,7 +32239,7 @@
         "2026-04-10"
       ],
       "conceptTags": [
-        "0.83",
+        "0.82",
         "29-29",
         "31-31",
         "32-32",
@@ -32255,14 +32255,14 @@
       "startLine": 222,
       "endLine": 225,
       "source": "memory",
-      "snippet": "Reflections: Theme: `系统` kept surfacing across 418 memories.; confidence: 0.83; evidence: memory/.dreams/session-corpus/2026-04-08.txt:29-29, memory/.dreams/session-corpus/2026-04-08.txt:31-31, memory/.dreams/session-corpus/2026-04-08.txt:32-32; note: reflection",
+      "snippet": "Reflections: Theme: `系统` kept surfacing across 419 memories.; confidence: 0.82; evidence: memory/.dreams/session-corpus/2026-04-08.txt:29-29, memory/.dreams/session-corpus/2026-04-08.txt:31-31, memory/.dreams/session-corpus/2026-04-08.txt:32-32; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T07:00:00.853Z",
-      "lastRecalledAt": "2026-04-10T07:00:00.853Z",
+      "lastRecalledAt": "2026-04-10T08:00:00.835Z",
       "queryHashes": [
         "ed3026e16517"
       ],
@@ -32270,7 +32270,7 @@
         "2026-04-10"
       ],
       "conceptTags": [
-        "0.83",
+        "0.82",
         "29-29",
         "31-31",
         "32-32",
@@ -32286,14 +32286,14 @@
       "startLine": 226,
       "endLine": 229,
       "source": "memory",
-      "snippet": "Reflections: Theme: `情况` kept surfacing across 416 memories.; confidence: 0.82; evidence: memory/.dreams/session-corpus/2026-04-08.txt:28-28, memory/.dreams/session-corpus/2026-04-08.txt:29-29, memory/.dreams/session-corpus/2026-04-08.txt:32-32; note: reflection",
+      "snippet": "Reflections: Theme: `情况` kept surfacing across 417 memories.; confidence: 0.82; evidence: memory/.dreams/session-corpus/2026-04-08.txt:28-28, memory/.dreams/session-corpus/2026-04-08.txt:29-29, memory/.dreams/session-corpus/2026-04-08.txt:32-32; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T07:00:00.853Z",
-      "lastRecalledAt": "2026-04-10T07:00:00.853Z",
+      "lastRecalledAt": "2026-04-10T08:00:00.835Z",
       "queryHashes": [
         "ed3026e16517"
       ],
@@ -32324,7 +32324,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T07:00:00.853Z",
-      "lastRecalledAt": "2026-04-10T07:00:00.853Z",
+      "lastRecalledAt": "2026-04-10T08:00:00.835Z",
       "queryHashes": [
         "ed3026e16517"
       ],
@@ -32338,6 +32338,68 @@
         "strong",
         "candidate",
         "surfaced"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:47:47": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:47:47",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 47,
+      "endLine": 47,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Friday, April 10th, 2026 - 15:16 (Asia/Shanghai) / 2026-04-10 07:16 UTC Return your summary as plain text; it will be delivered automatic",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T08:00:00.835Z",
+      "lastRecalledAt": "2026-04-10T08:00:00.835Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:48:48": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:48:48",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 48,
+      "endLine": 48,
+      "source": "memory",
+      "snippet": "Assistant: 知识同步完成。脚本执行成功，已同步以下内容： - 核心文档：SOUL.md、USER.md、AGENTS.md、HEARTBEAT.md、ONBOARDING.md → core/ - 目录同步：memory/、notes/、skills/ 文档 - Star Office 状态（已脱敏处理） - Git 同步：已拉取远程变更，合并后推送到远程仓库 Git 提交信息：`Auto-sync from deepnight-TravelMate-P248-MG at 2026-04-10 15:17:08` 同步状态已保存至 `/home",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T08:00:00.835Z",
+      "lastRecalledAt": "2026-04-10T08:00:00.835Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "soul.md",
+        "user.md",
+        "agents.md",
+        "heartbeat.md",
+        "onboarding.md",
+        "auto-sync",
+        "deepnight-travelmate-p248-mg",
+        "assistant"
       ]
     }
   }
