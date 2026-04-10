@@ -17,6 +17,16 @@
 - 资源访问量统计仪表盘（基于 request logs）
 - 自动封面图抓取（针对自定义 CMS）
 
+## 2026-04-10
+
+**Idea: Homepage_v2 空媒体资源自动修复工具**
+
+- **Problem:** 在 `homepage_v2` 项目中发现了 928 条 `resource_type='media'` 且 `resource_url` 和 `poster` 为空的 Page 记录，涉及 71 个不同域名。这些记录无法在 `player.m3u` API 中正常显示。
+- **Solution:** 开发一个自动化脚本，按域名对空资源进行分组，针对每个已配置的 `AppleSite` 调用 API 获取缺失的 `resource_url` 和 `poster` 信息，并批量更新数据库。
+- **Delight factor:** 自动化数据修复，减少人工干预，提高数据完整性。
+- **Implementation effort:** ~3-4 小时（分析域名映射、编写站点特定 API 调用逻辑、批量更新数据库）
+- **Bonus:** 可扩展到其他类似的数据修复任务。
+
 ## 2026-03-26 (2)
 
 **Idea: AppleCategory 变更即时通知**
