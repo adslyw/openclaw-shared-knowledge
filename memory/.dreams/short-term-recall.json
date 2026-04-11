@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-11T03:00:00.917Z",
+  "updatedAt": "2026-04-11T04:00:01.059Z",
   "entries": {
     "memory:memory/2026-04-07.md:3:3": {
       "key": "memory:memory/2026-04-07.md:3:3",
@@ -37097,14 +37097,14 @@
       "startLine": 378,
       "endLine": 381,
       "source": "memory",
-      "snippet": "Reflections: Theme: `assistant` kept surfacing across 786 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:7-7; note: reflection",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 789 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:7-7; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-11T03:00:00.917Z",
-      "lastRecalledAt": "2026-04-11T03:00:00.917Z",
+      "lastRecalledAt": "2026-04-11T04:00:01.059Z",
       "queryHashes": [
         "2213b71c3c98"
       ],
@@ -37180,6 +37180,97 @@
         "strong",
         "candidate",
         "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-11.md:384:384": {
+      "key": "memory:memory/2026-04-11.md:384:384",
+      "path": "memory/2026-04-11.md",
+      "startLine": 384,
+      "endLine": 384,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T04:00:01.059Z",
+      "lastRecalledAt": "2026-04-11T04:00:01.059Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:26:26": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:26:26",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 26,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Saturday, April 11th, 2026 - 11:43 (Asia/Shanghai) / 2026-04-11 03:43 UTC Return your summary as plain text; it will be delivered automat",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T04:00:01.059Z",
+      "lastRecalledAt": "2026-04-11T04:00:01.059Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:27:27": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:27:27",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 27,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "Assistant: 知识同步完成！ 同步内容包括： - 核心身份文件 (SOUL.md, USER.md, AGENTS.md, HEARTBEAT.md, ONBOARDING.md) - 记忆库 (memory/ 目录) - 笔记 (notes/ 目录) - 技能文档 (skills/) - Star Office 状态 (已脱敏处理) Git 操作： - 已拉取远程变更并合并 - 已推送本地更新到远程仓库 - 提交哈希: 2a132b5 同步状态已保存至 last-sync-state.json。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T04:00:01.059Z",
+      "lastRecalledAt": "2026-04-11T04:00:01.059Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "soul.md",
+        "user.md",
+        "agents.md",
+        "heartbeat.md",
+        "onboarding.md",
+        "last-sync-state.json",
+        "assistant",
+        "知识"
       ]
     }
   }
