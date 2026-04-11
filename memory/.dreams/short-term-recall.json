@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-11T05:00:00.872Z",
+  "updatedAt": "2026-04-11T06:00:00.859Z",
   "entries": {
     "memory:memory/2026-04-07.md:3:3": {
       "key": "memory:memory/2026-04-07.md:3:3",
@@ -15,7 +15,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-11T05:00:00.872Z",
+      "lastRecalledAt": "2026-04-11T06:00:00.859Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -49,7 +49,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-11T05:00:00.872Z",
+      "lastRecalledAt": "2026-04-11T06:00:00.859Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -79,7 +79,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-11T05:00:00.872Z",
+      "lastRecalledAt": "2026-04-11T06:00:00.859Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -113,7 +113,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-11T05:00:00.872Z",
+      "lastRecalledAt": "2026-04-11T06:00:00.859Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -143,7 +143,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-11T05:00:00.872Z",
+      "lastRecalledAt": "2026-04-11T06:00:00.859Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -177,7 +177,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-11T05:00:00.872Z",
+      "lastRecalledAt": "2026-04-11T06:00:00.859Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -211,7 +211,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-11T05:00:00.872Z",
+      "lastRecalledAt": "2026-04-11T06:00:00.859Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -245,7 +245,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-11T05:00:00.872Z",
+      "lastRecalledAt": "2026-04-11T06:00:00.859Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -275,7 +275,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-11T05:00:00.872Z",
+      "lastRecalledAt": "2026-04-11T06:00:00.859Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -37370,14 +37370,14 @@
       "startLine": 358,
       "endLine": 361,
       "source": "memory",
-      "snippet": "Reflections: Theme: `assistant` kept surfacing across 791 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:7-7; note: reflection",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 793 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:7-7; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-11T05:00:00.872Z",
-      "lastRecalledAt": "2026-04-11T05:00:00.872Z",
+      "lastRecalledAt": "2026-04-11T06:00:00.859Z",
       "queryHashes": [
         "2213b71c3c98"
       ],
@@ -37408,7 +37408,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-11T05:00:00.872Z",
-      "lastRecalledAt": "2026-04-11T05:00:00.872Z",
+      "lastRecalledAt": "2026-04-11T06:00:00.859Z",
       "queryHashes": [
         "2213b71c3c98"
       ],
@@ -37422,6 +37422,94 @@
         "strong",
         "candidate",
         "surfaced"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:30:30": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:30:30",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 30,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Saturday, April 11th, 2026 - 13:45 (Asia/Shanghai) / 2026-04-11 05:45 UTC Return your summary as plain text; it will be delivered automat",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T06:00:00.859Z",
+      "lastRecalledAt": "2026-04-11T06:00:00.859Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:31:31": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:31:31",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 31,
+      "endLine": 31,
+      "source": "memory",
+      "snippet": "Assistant: [user interrupted]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T06:00:00.859Z",
+      "lastRecalledAt": "2026-04-11T06:00:00.859Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "assistant",
+        "user",
+        "interrupted"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:32:32": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:32:32",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 32,
+      "endLine": 32,
+      "source": "memory",
+      "snippet": "Assistant: 知识同步完成！ 本次同步成功执行了以下操作： **文件同步：** - 同步了核心配置文件到 sync/core/（SOUL.md, USER.md, AGENTS.md, HEARTBEAT.md, ONBOARDING.md） - 同步了 memory/ 目录（每日笔记） - 同步了 notes/ 目录（结构化笔记） - 同步了 skills/ 文档（SKILL.md 和 README.md） - 同步了 star-office 状态（已脱敏处理） **Git 操作：** - 已从远程拉取最新变更 - 本地无冲突，成功合并 - 提",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-11T06:00:00.859Z",
+      "lastRecalledAt": "2026-04-11T06:00:00.859Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "sync/core",
+        "soul.md",
+        "user.md",
+        "agents.md",
+        "heartbeat.md",
+        "onboarding.md",
+        "skill.md",
+        "readme.md"
       ]
     }
   }
