@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-11T08:48:46.196Z",
+  "updatedAt": "2026-04-11T15:20:11.870Z",
   "entries": {
     "memory:memory/2026-04-07.md:3:3": {
       "key": "memory:memory/2026-04-07.md:3:3",
@@ -37721,6 +37721,68 @@
         "last-sync-state.json",
         "assistant",
         "知识"
+      ]
+    },
+    "memory:memory/2026-04-11.md:302:305": {
+      "key": "memory:memory/2026-04-11.md:302:305",
+      "path": "memory/2026-04-11.md",
+      "startLine": 302,
+      "endLine": 305,
+      "source": "memory",
+      "snippet": "@@ -302,4 @@ (301 before, 61 after) - status: staged - Candidate: Assistant: ## ✅ M3U Player Electron 桌面应用实现完成！ ### 🎯 已完成的工作 1. **项目结构设置** - 创建了 `electron/` 目录存放 Electron 主进程代码 - 创建了 `src/` 目录存放前端代码 - 复制了原有的前端文件 2. **核心代码实现** - ✅ `electron/main.js` - 完整的主进程代码（Express 服务器 + 窗口管理） - ✅ `electron/preload.js` - 安全的预加载脚本 - ✅ 更新了 `pack...",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.95,
+      "maxScore": 0.95,
+      "firstRecalledAt": "2026-04-11T15:19:58.028Z",
+      "lastRecalledAt": "2026-04-11T15:19:58.028Z",
+      "queryHashes": [
+        "fc686ebf7bd1"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "electron/main.js",
+        "electron/preload.js",
+        "302,4",
+        "status",
+        "staged",
+        "candidate",
+        "assistant",
+        "m3u"
+      ]
+    },
+    "memory:memory/2026-04-11.md:172:175": {
+      "key": "memory:memory/2026-04-11.md:172:175",
+      "path": "memory/2026-04-11.md",
+      "startLine": 172,
+      "endLine": 175,
+      "source": "memory",
+      "snippet": "@@ -172,4 @@ (171 before, 191 after) - status: staged - Candidate: Assistant: 这是一个常见的 Linux 上 Electron 的 sandbox 权限问题。让我修改启动脚本，添加 `--no-sandbox` 参数： - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-10.txt:123-123",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.95,
+      "maxScore": 0.95,
+      "firstRecalledAt": "2026-04-11T15:20:11.870Z",
+      "lastRecalledAt": "2026-04-11T15:20:11.870Z",
+      "queryHashes": [
+        "c14a5fdb3d4d"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "no-sandbox",
+        "0.00",
+        "123-123",
+        "172,4",
+        "status",
+        "staged",
+        "candidate",
+        "assistant"
       ]
     }
   }
