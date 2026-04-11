@@ -27,6 +27,16 @@
 - **Implementation effort:** ~3-4 小时（分析域名映射、编写站点特定 API 调用逻辑、批量更新数据库）
 - **Bonus:** 可扩展到其他类似的数据修复任务。
 
+## 2026-04-11
+
+**Idea: M3U Player Electron 自动构建和发布流水线**
+
+- **Problem:** M3U Player Electron 应用已经开发完成，但每次更新都需要手动构建和发布，缺乏自动化流程。
+- **Solution:** 创建 GitHub Actions 工作流，实现自动构建、测试和发布 Electron 应用到多个平台（Windows、macOS、Linux）。
+- **Delight factor:** 一键发布，自动构建，减少手动操作，提高发布效率。
+- **Implementation effort:** ~2-3 小时（配置 GitHub Actions、构建脚本、发布流程）
+- **Bonus:** 支持自动更新（electron-updater），用户可自动获取新版本。
+
 ## 2026-03-26 (2)
 
 **Idea: AppleCategory 变更即时通知**
