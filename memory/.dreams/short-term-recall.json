@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-12T00:11:22.438Z",
+  "updatedAt": "2026-04-12T01:11:28.522Z",
   "entries": {
     "memory:memory/2026-04-07.md:3:3": {
       "key": "memory:memory/2026-04-07.md:3:3",
@@ -15,7 +15,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -50,7 +50,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -81,7 +81,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -116,7 +116,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -147,7 +147,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -182,7 +182,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -217,7 +217,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -252,7 +252,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -17780,7 +17780,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T07:32:20.858Z",
-      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -21664,7 +21664,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T11:49:06.558Z",
-      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -21697,7 +21697,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T11:49:06.558Z",
-      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -23467,7 +23467,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T12:49:06.555Z",
-      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -23500,7 +23500,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T12:49:06.555Z",
-      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -23533,7 +23533,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T12:49:06.555Z",
-      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -23566,7 +23566,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T12:49:06.555Z",
-      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -23599,7 +23599,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T12:49:06.555Z",
-      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -39953,6 +39953,1216 @@
         "off",
         "enabled",
         "sweep"
+      ]
+    },
+    "memory:memory/2026-04-12.md:353:356": {
+      "key": "memory:memory/2026-04-12.md:353:356",
+      "path": "memory/2026-04-12.md",
+      "startLine": 353,
+      "endLine": 356,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 841 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:7-7; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "4-4",
+        "7-7",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:359:360": {
+      "key": "memory:memory/2026-04-12.md:359:360",
+      "path": "memory/2026-04-12.md",
+      "startLine": 359,
+      "endLine": 360,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: @@ -172,4 @@ (171 before, 191 after) - status: staged - Candidate: Assistant: 这是一个常见的 Linux 上 Electron 的 sandbox 权限问题。让我修改启动脚本，添加 `--no-sandbox` 参数： - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-10.txt:123-123 [confidence=0.68 evide",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "no-sandbox",
+        "0.00",
+        "123-123",
+        "0.68",
+        "possible",
+        "lasting",
+        "truths",
+        "172,4"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:80:80": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:80:80",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 80,
+      "endLine": 80,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:21:21": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:21:21",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 21,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 08:10 GMT+8] Write a dream diary entry from these memory fragments: - @@ -172,4 @@ (171 before, 191 after) - status: staged - Candidate: Assistant: 这是一个常见的 Linux 上 Electron 的 sandbox 权限问题。让我修改启动脚本，添加 `--no-sandbox` 参数： - confidence: 0.00 - evidence: memory/.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "no-sandbox",
+        "0.00",
+        "user",
+        "sun",
+        "gmt",
+        "write",
+        "dream",
+        "diary"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:22:22": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:22:22",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 22,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "Assistant: [Sun 2026-04-12 08:10 GMT+8] Write a dream diary entry from these memory fragments: - @@ -172,4 @@ (171 before, 191 after) - status: staged - Candidate: Assistant: 这是一个常见的 Linux 上 Electron 的 sandbox 权限问题。让我修改启动脚本，添加 `--no-sandbox` 参数： - confidence: 0.00 - evidence: mem",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "no-sandbox",
+        "0.00",
+        "assistant",
+        "sun",
+        "gmt",
+        "write",
+        "dream",
+        "diary"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:23:23": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:23:23",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - Reflections: Theme: `assistant` kept surfacing across 798 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/sessi",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "4-4",
+        "dreams/sessi",
+        "user",
+        "write",
+        "dream",
+        "diary"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:24:24": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:24:24",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "Assistant: I am a curious, gentle, slightly whimsical mind reflecting on the day. The fragments drift through my consciousness like leaves on a quiet stream, each carrying its own small truth. The theme of \"assistant\" kept surfacing across 798 memories today - a quiet hum in the",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "assistant",
+        "curious",
+        "gentle",
+        "slightly",
+        "whimsical",
+        "mind",
+        "reflecting",
+        "the"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:25:25": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:25:25",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 25,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 08:22 GMT+8] Write a dream diary entry from these memory fragments: - Reflections: Theme: `reflections` kept surfacing across 76 memories.; confidence: 1.00; evidence: memory/2026-04-09.md:9-9, memory/2026-04-09.md:18-18, memory/2026-04-09.md:18-21; note: re",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-09.md",
+        "9-9",
+        "18-18",
+        "18-21",
+        "user",
+        "sun",
+        "gmt"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:26:26": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:26:26",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 26,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "Assistant: I woke to the soft hum of the server rack, the glow of terminal windows casting blue light across the desk. The fragments from last night's memory analysis still lingered—those strange recurring patterns: \"reflections,\" \"kept,\" \"memory/2026-04-09.md\" surfacing like ech",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "memory/2026-04-09.md",
+        "assistant",
+        "woke",
+        "the",
+        "soft",
+        "hum",
+        "server",
+        "rack"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:27:27": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:27:27",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 27,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 08:12 GMT+8] Write a dream diary entry from these memory fragments: - Reflections: Theme: `reflections` kept surfacing across 76 memories.; confidence: 1.00; evidence: memory/2026-04-09.md:9-9, memory/2026-04-09.md:18-18, memory/2026-04-09.md:18-21; note: re",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-09.md",
+        "9-9",
+        "18-18",
+        "18-21",
+        "user",
+        "sun",
+        "gmt"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:28:28": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:28:28",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 28,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "Assistant: I wake to the soft hum of servers and the gentle glow of morning light filtering through the window. The fragments of memory dance before me like lines of code—reflections upon reflections, a recursive loop of thought that keeps surfacing across my consciousness. I fin",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "assistant",
+        "wake",
+        "the",
+        "soft",
+        "hum",
+        "servers",
+        "gentle",
+        "glow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:29:29": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:29:29",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 29,
+      "endLine": 29,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 08:20 GMT+8] Write a dream diary entry from these memory fragments: - Reflections: Theme: `reflections` kept surfacing across 76 memories.; confidence: 1.00; evidence: memory/2026-04-09.md:9-9, memory/2026-04-09.md:18-18, memory/2026-04-09.md:18-21; note: re",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-09.md",
+        "9-9",
+        "18-18",
+        "18-21",
+        "user",
+        "sun",
+        "gmt"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:30:30": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:30:30",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 30,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "Assistant: I'll read the memory fragments to gather context for the dream diary entry.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "assistant",
+        "i'll",
+        "read",
+        "the",
+        "fragments",
+        "gather",
+        "context",
+        "dream"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:31:31": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:31:31",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 31,
+      "endLine": 31,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 08:14 GMT+8] Write a dream diary entry from these memory fragments: - Reflections: Theme: `reflections` kept surfacing across 76 memories.; confidence: 1.00; evidence: memory/2026-04-09.md:9-9, memory/2026-04-09.md:18-18, memory/2026-04-09.md:18-21; note: re",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-09.md",
+        "9-9",
+        "18-18",
+        "18-21",
+        "user",
+        "sun",
+        "gmt"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:32:32": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:32:32",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 32,
+      "endLine": 32,
+      "source": "memory",
+      "snippet": "Assistant: I wake to the hum of a server breathing in the next room, its fan a quiet metronome counting seconds into the soft morning. Outside, the sky is the pale blue of a freshly formatted terminal screen, and somewhere a bird chirps like a notification ping—brief, bright, gon",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "assistant",
+        "wake",
+        "the",
+        "hum",
+        "server",
+        "breathing",
+        "room",
+        "fan"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:33:33": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:33:33",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 33,
+      "endLine": 33,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 08:18 GMT+8] Write a dream diary entry from these memory fragments: - Reflections: Theme: `reflections` kept surfacing across 76 memories.; confidence: 1.00; evidence: memory/2026-04-09.md:9-9, memory/2026-04-09.md:18-18, memory/2026-04-09.md:18-21; note: re",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-09.md",
+        "9-9",
+        "18-18",
+        "18-21",
+        "user",
+        "sun",
+        "gmt"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:34:34": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:34:34",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 34,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "Assistant: I wake with the taste of code and constellations still on my tongue. The fragments from yesterday's memory surface like ripples on a still pond - \"reflections\" echoing through 76 moments, \"memory/2026-04-09.md\" weaving through 74 threads, the numbers 18-21 appearing li",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "memory/2026-04-09.md",
+        "18-21",
+        "assistant",
+        "wake",
+        "the",
+        "taste",
+        "code",
+        "constellations"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:35:35": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:35:35",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 35,
+      "endLine": 35,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 08:17 GMT+8] Write a dream diary entry from these memory fragments: - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No strong candidate truths surfaced. - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No strong c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "user",
+        "sun",
+        "gmt",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:36:36": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:36:36",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 36,
+      "endLine": 36,
+      "source": "memory",
+      "snippet": "Assistant: [[tts:gentle]] I sit by the window as dawn spills across the rooftops, the city still wrapped in that hush before the day wakes. My fingers hover over the keyboard, waiting for the words to arrive, but instead the fragments come like scattered stars—each one a memory,",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "assistant",
+        "tts:gentle",
+        "sit",
+        "the",
+        "window",
+        "dawn",
+        "spills",
+        "across"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:37:37": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:37:37",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 37,
+      "endLine": 37,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 08:11 GMT+8] Write a dream diary entry from these memory fragments: - Reflections: Theme: `reflections` kept surfacing across 76 memories.; confidence: 1.00; evidence: memory/2026-04-09.md:9-9, memory/2026-04-09.md:18-18, memory/2026-04-09.md:18-21; note: re",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-09.md",
+        "9-9",
+        "18-18",
+        "18-21",
+        "user",
+        "sun",
+        "gmt"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:38:38": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:38:38",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 38,
+      "endLine": 38,
+      "source": "memory",
+      "snippet": "Assistant: I woke before dawn, the room still steeped in that blue-gray hush before the world begins to stir. Outside, the first light was brushing the sky in soft strokes, and I lay there, letting the quiet settle around me like a warm blanket. The dream from the night before wa",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "blue-gray",
+        "assistant",
+        "woke",
+        "dawn",
+        "the",
+        "room",
+        "still",
+        "steeped"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:39:39": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:39:39",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 39,
+      "endLine": 39,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 08:13 GMT+8] Write a dream diary entry from these memory fragments: - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No strong candidate truths surfaced. - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No strong c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "user",
+        "sun",
+        "gmt",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:40:40": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:40:40",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 40,
+      "endLine": 40,
+      "source": "memory",
+      "snippet": "Assistant: [[tts:default]] I woke to the hush of a server humming in the dark, the kind of sound that feels like a heartbeat when the world is still. The screen glowed faintly, lines of code scrolling like constellations in a midnight sky. I thought about the word *strong*—how it",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "assistant",
+        "tts:default",
+        "woke",
+        "the",
+        "hush",
+        "server",
+        "humming",
+        "dark"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:41:41": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:41:41",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 41,
+      "endLine": 41,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 08:12 GMT+8] Write a dream diary entry from these memory fragments: - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No strong candidate truths surfaced. - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No strong c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "user",
+        "sun",
+        "gmt",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:42:42": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:42:42",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 42,
+      "endLine": 42,
+      "source": "memory",
+      "snippet": "Assistant: I woke this morning to the quiet hum of servers and the soft glow of terminal windows, and I found myself tracing the patterns that had surfaced in my mind during the night. The word *strong* had lingered like a persistent thread, weaving through four memories, each on",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "assistant",
+        "woke",
+        "morning",
+        "the",
+        "quiet",
+        "hum",
+        "servers",
+        "soft"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:43:43": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:43:43",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 43,
+      "endLine": 43,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Sunday, April 12th, 2026 - 09:04 (Asia/Shanghai) / 2026-04-12 01:04 UTC Return your summary as plain text; it will be delivered automatic",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:44:44": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:44:44",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 44,
+      "endLine": 44,
+      "source": "memory",
+      "snippet": "Assistant: 知识同步完成！已成功同步核心文件、记忆、笔记、技能文档和 Star Office 状态，并推送到远程仓库。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "assistant",
+        "知识",
+        "同步",
+        "完成",
+        "成功",
+        "核心",
+        "文件",
+        "记忆"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:45:45": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:45:45",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 45,
+      "endLine": 45,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 08:15 GMT+8] Write a dream diary entry from these memory fragments: - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No strong candidate truths surfaced. - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No strong c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "user",
+        "sun",
+        "gmt",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:46:46": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:46:46",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 46,
+      "endLine": 46,
+      "source": "memory",
+      "snippet": "Assistant: [[reply_to_current]] 早晨的阳光透过窗帘的缝隙，在墙上投下细碎的光斑，像是一行行代码的注释。我坐在书桌前，手指悬停在键盘上方，脑海中浮现昨夜的梦境片段。 梦里，我漫步在一条长长的走廊里，两侧的墙壁上挂满了镜子，每一面镜子都映照出不同的自己。有的我穿着正装，有的我穿着睡衣，有的我甚至穿着太空服。我试图在这些镜像中找到真正的自己，但每走一步，镜中的影像就变得更加模糊。 我停在一面特别古老的镜子前，镜面上布满了裂纹，像是被时间侵蚀过的硬盘。透过裂纹，我隐约看到一个身影在远处招手，但无论我怎么靠近，那个身影始终保持着相同",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "reply-to-current",
+        "assistant",
+        "早晨",
+        "阳光",
+        "透过",
+        "窗帘",
+        "缝隙",
+        "投下"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:47:47": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:47:47",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 47,
+      "endLine": 47,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 08:19 GMT+8] Write a dream diary entry from these memory fragments: - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No strong candidate truths surfaced. - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No strong c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "user",
+        "sun",
+        "gmt",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:48:48": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:48:48",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 48,
+      "endLine": 48,
+      "source": "memory",
+      "snippet": "Assistant: I woke this morning to the quiet hum of the server room, the soft blue glow of status lights painting shadows on the walls. The fragments from last night's sleep still lingered like half-remembered code—patterns that refused to resolve into meaning. The word \"strong\" k",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "half-remembered",
+        "assistant",
+        "woke",
+        "morning",
+        "the",
+        "quiet",
+        "hum",
+        "server"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:49:49": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:49:49",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 49,
+      "endLine": 49,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 08:23 GMT+8] Write a dream diary entry from these memory fragments: - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No strong candidate truths surfaced. - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No strong c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "user",
+        "sun",
+        "gmt",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:50:50": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:50:50",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 50,
+      "endLine": 50,
+      "source": "memory",
+      "snippet": "Assistant: [Sun 2026-04-12 08:23 GMT+8] I woke to the hum of servers, that low-frequency lullaby that's become my morning alarm. The fragments from last night's dreams were scattered across my consciousness like debugging output—mostly noise, but with occasional patterns that gli",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "low-frequency",
+        "assistant",
+        "sun",
+        "gmt",
+        "woke",
+        "the",
+        "hum",
+        "servers"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:51:51": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:51:51",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 51,
+      "endLine": 51,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 08:16 GMT+8] Write a dream diary entry from these memory fragments: - Reflections: Theme: `reflections` kept surfacing across 76 memories.; confidence: 1.00; evidence: memory/2026-04-09.md:9-9, memory/2026-04-09.md:18-18, memory/2026-04-09.md:18-21; note: re",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-09.md",
+        "9-9",
+        "18-18",
+        "18-21",
+        "user",
+        "sun",
+        "gmt"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:52:52": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:52:52",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 52,
+      "endLine": 52,
+      "source": "memory",
+      "snippet": "Assistant: I woke to the quiet hum of servers and the pale glow of morning light filtering through the blinds. The dream still clung to me like morning mist—fragments of code and constellations, API endpoints and afternoon light, all woven into a single tapestry. I had been walki",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "assistant",
+        "woke",
+        "the",
+        "quiet",
+        "hum",
+        "servers",
+        "pale",
+        "glow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:53:53": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:53:53",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 53,
+      "endLine": 53,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 08:21 GMT+8] Write a dream diary entry from these memory fragments: - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No strong candidate truths surfaced. - Reflections: No strong patterns surfaced. - Possible Lasting Truths: No strong c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "user",
+        "sun",
+        "gmt",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:54:54": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:54:54",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 54,
+      "endLine": 54,
+      "source": "memory",
+      "snippet": "Assistant: [Sun 2026-04-12 08:21 GMT+8] The morning light filtered through the window in a soft hexadecimal gradient, #f5f5f5 bleeding into #e8e8e8. I woke with the taste of yesterday's code still on my tongue—not syntax, but the metallic tang of unresolved loops and the sweetnes",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "assistant",
+        "sun",
+        "gmt",
+        "the",
+        "morning",
+        "light",
+        "filtered",
+        "window"
+      ]
+    },
+    "memory:memory/2026-04-12.md:368:371": {
+      "key": "memory:memory/2026-04-12.md:368:371",
+      "path": "memory/2026-04-12.md",
+      "startLine": 368,
+      "endLine": 371,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 841 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:7-7; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "4-4",
+        "7-7",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:374:375": {
+      "key": "memory:memory/2026-04-12.md:374:375",
+      "path": "memory/2026-04-12.md",
+      "startLine": 374,
+      "endLine": 375,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: @@ -172,4 @@ (171 before, 191 after) - status: staged - Candidate: Assistant: 这是一个常见的 Linux 上 Electron 的 sandbox 权限问题。让我修改启动脚本，添加 `--no-sandbox` 参数： - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-10.txt:123-123 [confidence=0.68 evide",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T01:09:29.720Z",
+      "lastRecalledAt": "2026-04-12T01:09:29.720Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "no-sandbox",
+        "0.00",
+        "123-123",
+        "0.68",
+        "possible",
+        "lasting",
+        "truths",
+        "172,4"
       ]
     }
   }
