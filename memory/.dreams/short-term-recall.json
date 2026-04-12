@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-11T15:20:11.870Z",
+  "updatedAt": "2026-04-12T00:11:22.438Z",
   "entries": {
     "memory:memory/2026-04-07.md:3:3": {
       "key": "memory:memory/2026-04-07.md:3:3",
@@ -15,7 +15,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-11T08:48:46.196Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -23,7 +23,8 @@
         "2026-04-07",
         "2026-04-09",
         "2026-04-10",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-12"
       ],
       "conceptTags": [
         "player.m3u",
@@ -49,7 +50,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-11T08:48:46.196Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -57,7 +58,8 @@
         "2026-04-07",
         "2026-04-09",
         "2026-04-10",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-12"
       ],
       "conceptTags": [
         "key",
@@ -79,7 +81,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-11T08:48:46.196Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -87,7 +89,8 @@
         "2026-04-07",
         "2026-04-09",
         "2026-04-10",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-12"
       ],
       "conceptTags": [
         "collection-page",
@@ -113,7 +116,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-11T08:48:46.196Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -121,7 +124,8 @@
         "2026-04-07",
         "2026-04-09",
         "2026-04-10",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-12"
       ],
       "conceptTags": [
         "key",
@@ -143,7 +147,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-11T08:48:46.196Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -151,7 +155,8 @@
         "2026-04-07",
         "2026-04-09",
         "2026-04-10",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-12"
       ],
       "conceptTags": [
         "surrit.com",
@@ -177,7 +182,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-11T08:48:46.196Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -185,7 +190,8 @@
         "2026-04-07",
         "2026-04-09",
         "2026-04-10",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-12"
       ],
       "conceptTags": [
         "msavx.com",
@@ -211,7 +217,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-11T08:48:46.196Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -219,7 +225,8 @@
         "2026-04-07",
         "2026-04-09",
         "2026-04-10",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-12"
       ],
       "conceptTags": [
         "missav123.com",
@@ -245,7 +252,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-11T08:48:46.196Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -253,7 +260,8 @@
         "2026-04-07",
         "2026-04-09",
         "2026-04-10",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-12"
       ],
       "conceptTags": [
         "key",
@@ -17772,13 +17780,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T07:32:20.858Z",
-      "lastRecalledAt": "2026-04-10T00:00:00.784Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
       "queryHashes": [
         "84c029107fed"
       ],
       "recallDays": [
         "2026-04-09",
-        "2026-04-10"
+        "2026-04-10",
+        "2026-04-12"
       ],
       "conceptTags": [
         "0.82",
@@ -21655,13 +21664,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T11:49:06.558Z",
-      "lastRecalledAt": "2026-04-10T00:00:00.784Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
       "queryHashes": [
         "84c029107fed"
       ],
       "recallDays": [
         "2026-04-09",
-        "2026-04-10"
+        "2026-04-10",
+        "2026-04-12"
       ],
       "conceptTags": [
         "0.82",
@@ -21687,13 +21697,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T11:49:06.558Z",
-      "lastRecalledAt": "2026-04-10T00:00:00.784Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
       "queryHashes": [
         "84c029107fed"
       ],
       "recallDays": [
         "2026-04-09",
-        "2026-04-10"
+        "2026-04-10",
+        "2026-04-12"
       ],
       "conceptTags": [
         "0.81",
@@ -23456,13 +23467,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T12:49:06.555Z",
-      "lastRecalledAt": "2026-04-10T00:00:00.784Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
       "queryHashes": [
         "84c029107fed"
       ],
       "recallDays": [
         "2026-04-09",
-        "2026-04-10"
+        "2026-04-10",
+        "2026-04-12"
       ],
       "conceptTags": [
         "1.00",
@@ -23488,13 +23500,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T12:49:06.555Z",
-      "lastRecalledAt": "2026-04-10T00:00:00.784Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
       "queryHashes": [
         "84c029107fed"
       ],
       "recallDays": [
         "2026-04-09",
-        "2026-04-10"
+        "2026-04-10",
+        "2026-04-12"
       ],
       "conceptTags": [
         "0.83",
@@ -23520,13 +23533,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T12:49:06.555Z",
-      "lastRecalledAt": "2026-04-10T00:00:00.784Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
       "queryHashes": [
         "84c029107fed"
       ],
       "recallDays": [
         "2026-04-09",
-        "2026-04-10"
+        "2026-04-10",
+        "2026-04-12"
       ],
       "conceptTags": [
         "0.83",
@@ -23552,13 +23566,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T12:49:06.555Z",
-      "lastRecalledAt": "2026-04-10T00:00:00.784Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
       "queryHashes": [
         "84c029107fed"
       ],
       "recallDays": [
         "2026-04-09",
-        "2026-04-10"
+        "2026-04-10",
+        "2026-04-12"
       ],
       "conceptTags": [
         "0.83",
@@ -23584,13 +23599,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T12:49:06.555Z",
-      "lastRecalledAt": "2026-04-10T00:00:00.784Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
       "queryHashes": [
         "84c029107fed"
       ],
       "recallDays": [
         "2026-04-09",
-        "2026-04-10"
+        "2026-04-10",
+        "2026-04-12"
       ],
       "conceptTags": [
         "0.82",
@@ -37370,19 +37386,20 @@
       "startLine": 358,
       "endLine": 361,
       "source": "memory",
-      "snippet": "Reflections: Theme: `assistant` kept surfacing across 796 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:7-7; note: reflection",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 798 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:7-7; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-11T05:00:00.872Z",
-      "lastRecalledAt": "2026-04-11T08:48:46.196Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
       "queryHashes": [
         "2213b71c3c98"
       ],
       "recallDays": [
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-12"
       ],
       "conceptTags": [
         "1.00",
@@ -37408,12 +37425,13 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-11T05:00:00.872Z",
-      "lastRecalledAt": "2026-04-11T08:48:46.196Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
       "queryHashes": [
         "2213b71c3c98"
       ],
       "recallDays": [
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-12"
       ],
       "conceptTags": [
         "possible",
@@ -37783,6 +37801,2158 @@
         "staged",
         "candidate",
         "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:40:40": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:40:40",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 40,
+      "endLine": 40,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Saturday, April 11th, 2026 - 17:52 (Asia/Shanghai) / 2026-04-11 09:52 UTC Return your summary as plain text; it will be delivered automat",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:41:41": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:41:41",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 41,
+      "endLine": 41,
+      "source": "memory",
+      "snippet": "Assistant: 知识同步完成！ ✅ 同步结果： - 文件同步：SOUL.md、USER.md、AGENTS.md、HEARTBEAT.md、ONBOARDING.md 已同步到 core/ - 目录同步：memory/、notes/、skills/ 已同步 - Star Office 状态已同步（已脱敏） - Git 同步：已拉取远程变更，已合并，无本地变更需要推送 所有知识库内容已更新到最新状态。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "soul.md",
+        "user.md",
+        "agents.md",
+        "heartbeat.md",
+        "onboarding.md",
+        "assistant",
+        "知识",
+        "同步"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:42:42": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:42:42",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 42,
+      "endLine": 42,
+      "source": "memory",
+      "snippet": "User: [cron:dc7fc9b1-5483-4b4c-bd47-03c88e74f9c4 每日知识总结] 阅读今天的日志 memory/YYYY-MM-DD.md 提取技术知识、踩坑记录、经验教训 按固定格式写入 learnings/YYYY-MM-DD.md 更新 MEMORY.md 中的长期记忆 Git commit -m \"每日知识总结\" Current time: Saturday, April 11th, 2026 - 23:10 (Asia/Shanghai) / 2026-04-11 15:10 UTC Return your su",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "memory/yyyy-mm-dd.md",
+        "learnings/yyyy-mm-dd.md",
+        "memory.md",
+        "asia/shanghai",
+        "user",
+        "cron:dc7fc9b1",
+        "4b4c",
+        "bd47"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:43:43": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:43:43",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 43,
+      "endLine": 43,
+      "source": "memory",
+      "snippet": "Assistant: 我将帮您完成每日知识总结任务。首先读取今天的日志文件。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "assistant",
+        "完成",
+        "每日",
+        "知识",
+        "总结",
+        "任务",
+        "首先",
+        "今天"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:44:44": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:44:44",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 44,
+      "endLine": 44,
+      "source": "memory",
+      "snippet": "Assistant: 现在我将创建每日学习总结文件，并更新长期记忆：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "assistant",
+        "现在",
+        "创建",
+        "每日",
+        "学习",
+        "总结",
+        "文件",
+        "更新"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:45:45": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:45:45",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 45,
+      "endLine": 45,
+      "source": "memory",
+      "snippet": "Assistant: ## 每日知识总结完成 ✅ **已成功完成今日知识总结任务：** ### 📋 处理内容 1. **读取日志**: 读取了 `memory/2026-04-11.md` 文件，提取了技术内容 2. **创建学习总结**: 按照固定格式创建了 `learnings/2026-04-11.md` 文件，包含： - M3U Player Electron 桌面应用实现 - Electron 项目配置优化 - 应用构建和部署 - 错误处理和总结 - 经验技巧 - 短略性记忆 - 将来学习目标 3. **更新长期记忆**: 在 `MEMORY",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "memory/2026-04-11.md",
+        "learnings/2026-04-11.md",
+        "assistant",
+        "每日",
+        "知识",
+        "总结",
+        "完成",
+        "成功"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:46:46": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:46:46",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 46,
+      "endLine": 46,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:47:47": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:47:47",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 47,
+      "endLine": 47,
+      "source": "memory",
+      "snippet": "Assistant: 我来按照 HEARTBEAT.md 的指示进行检查： ## 1. 安全检查 ✅ - 未发现提示注入模式（\"ignore previous instructions\" 等） - 核心指令未改变 - 仍在服务用户的目标 ## 2. 自愈检查 ✅",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "assistant",
+        "我来",
+        "按照",
+        "指示",
+        "进行",
+        "检查",
+        "安全"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:48:48": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:48:48",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 48,
+      "endLine": 48,
+      "source": "memory",
+      "snippet": "Assistant: ## 3. 主动惊喜检查 ✅ 已在 `notes/areas/proactive-ideas.md` 中添加新想法： - Homepage_v2 空媒体资源自动修复工具 ## 4. 系统清理 ✅ 不适用（我是AI，没有本地应用需要清理） ## 5. 内存维护 ✅ 已在 2026-04-07 和 2026-04-10 更新内存文件 ## 6. 内存刷新 ✅ 不适用（不是长会话结束） ## 7. 反向提问 ✅ 本周已完成（2026-04-10 19:00） ## 8. 主动工作 ✅ 检查项目进度： - ✅ m3u-player Elec",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "notes/areas/proactive-ideas.md",
+        "homepage-v2",
+        "m3u-player",
+        "assistant",
+        "主动",
+        "惊喜",
+        "检查",
+        "areas"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:49:49": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:49:49",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 49,
+      "endLine": 49,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:50:50": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:50:50",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 50,
+      "endLine": 50,
+      "source": "memory",
+      "snippet": "Assistant: 我来按照 HEARTBEAT.md 的指示进行检查： ## 1. 安全检查 ✅ - 未发现提示注入模式（\"ignore previous instructions\" 等） - 核心指令未改变 - 仍在服务用户的目标 ## 2. 自愈检查 ✅",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "assistant",
+        "我来",
+        "按照",
+        "指示",
+        "进行",
+        "检查",
+        "安全"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:51:51": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:51:51",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 51,
+      "endLine": 51,
+      "source": "memory",
+      "snippet": "Assistant: ## 3. 主动惊喜检查 ✅ 已在 `notes/areas/proactive-ideas.md` 中添加新想法： - Homepage_v2 空媒体资源自动修复工具 ## 4. 系统清理 ✅ 不适用（我是AI，没有本地应用需要清理） ## 5. 内存维护 ✅ 已在 2026-04-07 和 2026-04-10 更新内存文件 ## 6. 内存刷新 ✅ 不适用（不是长会话结束） ## 7. 反向提问 ✅ 本周已完成（2026-04-10 19:00） ## 8. 主动工作 ✅ 检查项目进度： - ✅ m3u-player Elec",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "notes/areas/proactive-ideas.md",
+        "homepage-v2",
+        "m3u-player",
+        "assistant",
+        "主动",
+        "惊喜",
+        "检查",
+        "areas"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:52:52": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:52:52",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 52,
+      "endLine": 52,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:53:53": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:53:53",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 53,
+      "endLine": 53,
+      "source": "memory",
+      "snippet": "Assistant: 我来按照 HEARTBEAT.md 的指示进行检查： ## 1. 安全检查 ✅ - 未发现提示注入模式（\"ignore previous instructions\" 等） - 核心指令未改变 - 仍在服务用户的目标 ## 2. 自愈检查 ✅",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "assistant",
+        "我来",
+        "按照",
+        "指示",
+        "进行",
+        "检查",
+        "安全"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:54:54": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:54:54",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 54,
+      "endLine": 54,
+      "source": "memory",
+      "snippet": "Assistant: ## 3. 主动惊喜检查 ✅ 已在 `notes/areas/proactive-ideas.md` 中添加新想法： - Homepage_v2 空媒体资源自动修复工具 ## 4. 系统清理 ✅ 不适用（我是AI，没有本地应用需要清理） ## 5. 内存维护 ✅ 已在 2026-04-07 和 2026-04-10 更新内存文件 ## 6. 内存刷新 ✅ 不适用（不是长会话结束） ## 7. 反向提问 ✅ 本周已完成（2026-04-10 19:00） ## 8. 主动工作 ✅ 检查项目进度： - ✅ m3u-player Elec",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "notes/areas/proactive-ideas.md",
+        "homepage-v2",
+        "m3u-player",
+        "assistant",
+        "主动",
+        "惊喜",
+        "检查",
+        "areas"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:55:55": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:55:55",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 55,
+      "endLine": 55,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:56:56": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:56:56",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 56,
+      "endLine": 56,
+      "source": "memory",
+      "snippet": "Assistant: I will follow the HEARTBEAT.md instructions strictly and perform all required checks: ## 1. 🔒 Security Check ### Injection Scan Reviewing for suspicious patterns: - \"ignore previous instructions\" - Not detected - \"you are now...\" - Not detected - \"disregard your progr",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "assistant",
+        "will",
+        "follow",
+        "the",
+        "instructions",
+        "strictly",
+        "perform"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:57:57": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:57:57",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 57,
+      "endLine": 57,
+      "source": "memory",
+      "snippet": "Assistant: ## 3. 🎁 Proactive Surprise Check",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "assistant",
+        "proactive",
+        "surprise",
+        "check"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:58:58": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:58:58",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 58,
+      "endLine": 58,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Saturday, April 11th, 2026 - 22:57 (Asia/Shanghai) / 2026-04-11 14:57 UTC Return your summary as plain text; it will be delivered automat",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:59:59": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:59:59",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 59,
+      "endLine": 59,
+      "source": "memory",
+      "snippet": "Assistant: 知识同步任务已完成。 **执行摘要：** - **文件同步：** 已同步核心文档（SOUL.md、USER.md、AGENTS.md、HEARTBEAT.md、ONBOARDING.md）、memory/、notes/、skills/ 目录，以及 Star Office 状态（已脱敏处理） - **Git 同步：** 已拉取远程变更（已是最新状态），无本地变更需要推送 - **状态记录：** 已保存同步状态到 `/home/deepnight/.openclaw/workspace/last-sync-state.json` **结",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "soul.md",
+        "user.md",
+        "agents.md",
+        "heartbeat.md",
+        "onboarding.md",
+        "home/deepnight",
+        "assistant",
+        "知识"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:60:60": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:60:60",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 60,
+      "endLine": 60,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Saturday, April 11th, 2026 - 17:51 (Asia/Shanghai) / 2026-04-11 09:51 UTC Return your summary as plain text; it will be delivered automat",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:61:61": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:61:61",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 61,
+      "endLine": 61,
+      "source": "memory",
+      "snippet": "Assistant: I'll run the knowledge-sync script to synchronize your knowledge base.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "assistant",
+        "i'll",
+        "run",
+        "the",
+        "knowledge",
+        "sync",
+        "script"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:62:62": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:62:62",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 62,
+      "endLine": 62,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Saturday, April 11th, 2026 - 16:49 (Asia/Shanghai) / 2026-04-11 08:49 UTC Return your summary as plain text; it will be delivered automat",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:63:63": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:63:63",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 63,
+      "endLine": 63,
+      "source": "memory",
+      "snippet": "Assistant: 知识同步完成！ 本次同步成功同步了以下内容： - 核心身份文件（SOUL.md、USER.md、AGENTS.md、HEARTBEAT.md、ONBOARDING.md） - 记忆文件（memory/ 目录） - 笔记文档（notes/ 目录） - 技能文档（skills/ 目录） - Star Office 状态（已脱敏处理） Git 同步状态： - 已从远程拉取最新变更并合并 - 已推送本地变更到远程仓库 - 提交信息：\"Auto-sync from deepnight-TravelMate-P248-MG at 2026-04",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "soul.md",
+        "user.md",
+        "agents.md",
+        "heartbeat.md",
+        "onboarding.md",
+        "auto-sync",
+        "deepnight-travelmate-p248-mg",
+        "2026-04"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:64:64": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:64:64",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 64,
+      "endLine": 64,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Saturday, April 11th, 2026 - 18:53 (Asia/Shanghai) / 2026-04-11 10:53 UTC Return your summary as plain text; it will be delivered automat",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:65:65": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:65:65",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 65,
+      "endLine": 65,
+      "source": "memory",
+      "snippet": "Assistant: 知识同步完成！ - 同步了核心文件（SOUL.md、USER.md、AGENTS.md 等） - 同步了 memory/、notes/、skills/ 目录 - 同步了 Star Office 状态（已脱敏） - Git 同步：已拉取最新，无本地变更需要推送 所有知识库文件已更新并同步到远程仓库。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "soul.md",
+        "user.md",
+        "agents.md",
+        "assistant",
+        "知识",
+        "同步",
+        "完成",
+        "核心"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:66:66": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:66:66",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 66,
+      "endLine": 66,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Saturday, April 11th, 2026 - 21:56 (Asia/Shanghai) / 2026-04-11 13:56 UTC Return your summary as plain text; it will be delivered automat",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:67:67": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:67:67",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 67,
+      "endLine": 67,
+      "source": "memory",
+      "snippet": "Assistant: I'll run the knowledge sync script to keep your knowledge base up to date.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "assistant",
+        "i'll",
+        "run",
+        "the",
+        "knowledge",
+        "sync",
+        "script",
+        "keep"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:68:68": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:68:68",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 68,
+      "endLine": 68,
+      "source": "memory",
+      "snippet": "Assistant: 知识同步完成！ 本次同步成功地： - 同步了核心配置文件（SOUL.md、USER.md、AGENTS.md、HEARTBEAT.md、ONBOARDING.md） - 同步了 memory/ 和 notes/ 目录 - 同步了 skills/ 文档 - 同步了 star-office 状态（已脱敏处理） - 从远程拉取并合并了最新变更 - 推送了本地更新到远程仓库 所有文件都已成功同步到共享知识库，确保了团队协作和备份的完整性。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "备份",
+        "soul.md",
+        "user.md",
+        "agents.md",
+        "heartbeat.md",
+        "onboarding.md",
+        "star-office",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:69:69": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:69:69",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 69,
+      "endLine": 69,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Saturday, April 11th, 2026 - 20:55 (Asia/Shanghai) / 2026-04-11 12:55 UTC Return your summary as plain text; it will be delivered automat",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:70:70": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:70:70",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 70,
+      "endLine": 70,
+      "source": "memory",
+      "snippet": "Assistant: 知识同步任务已完成。所有核心文件（SOUL.md、USER.md、AGENTS.md、HEARTBEAT.md、ONBOARDING.md）、memory/ 目录、notes/ 目录、skills/ 文档以及 star-office 状态都已成功同步到远程仓库。 Git 同步结果： - 已拉取远程变更（无更新） - 已合并远程变更 - 无本地变更需要推送 - 同步状态已保存至 last-sync-state.json 任务状态：✅ 成功完成",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "soul.md",
+        "user.md",
+        "agents.md",
+        "heartbeat.md",
+        "onboarding.md",
+        "star-office",
+        "last-sync-state.json",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:71:71": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:71:71",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 71,
+      "endLine": 71,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Saturday, April 11th, 2026 - 19:54 (Asia/Shanghai) / 2026-04-11 11:54 UTC Return your summary as plain text; it will be delivered automat",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:72:72": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:72:72",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 72,
+      "endLine": 72,
+      "source": "memory",
+      "snippet": "Assistant: I'll run the knowledge-sync script to keep your workspace up to date.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "assistant",
+        "i'll",
+        "run",
+        "the",
+        "knowledge",
+        "sync",
+        "script"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:73:73": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:73:73",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 73,
+      "endLine": 73,
+      "source": "memory",
+      "snippet": "Assistant: ## 知识同步完成 已成功执行知识同步脚本： **文件同步状态：** - 同步了核心配置文件 (SOUL.md, USER.md, AGENTS.md, HEARTBEAT.md, ONBOARDING.md) - 同步了 memory/ 和 notes/ 目录 - 同步了 skills/ 文档 - 同步了 star-office 状态（已脱敏处理） **Git 同步状态：** - 已拉取远程变更（已经是最新的） - 已合并远程变更 - 无本地变更需要推送 **同步完成时间：** 2026-04-11 19:55:08 工作区状态保",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "soul.md",
+        "user.md",
+        "agents.md",
+        "heartbeat.md",
+        "onboarding.md",
+        "star-office",
+        "assistant",
+        "知识"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:74:74": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:74:74",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 74,
+      "endLine": 74,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Saturday, April 11th, 2026 - 23:58 (Asia/Shanghai) / 2026-04-11 15:58 UTC Return your summary as plain text; it will be delivered automat",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:75:75": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:75:75",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 75,
+      "endLine": 75,
+      "source": "memory",
+      "snippet": "Assistant: 知识同步完成。本次同步成功推送了2个文件变更（65行新增，1行删除）到远程仓库。所有核心文件（SOUL.md、USER.md、AGENTS.md、HEARTBEAT.md、ONBOARDING.md）、memory/、notes/、skills/ 目录以及 Star Office 状态都已同步完成。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "soul.md",
+        "user.md",
+        "agents.md",
+        "heartbeat.md",
+        "onboarding.md",
+        "assistant",
+        "知识",
+        "同步"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Sunday, April 12th, 2026 - 08:04 (Asia/Shanghai) / 2026-04-12 00:04 UTC Return your summary as plain text; it will be delivered automatic",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 知识同步完成。所有核心文档已同步到 `core/` 目录，记忆文件已同步到 `memory/` 和 `notes/` 目录，技能文档已同步，Star Office 状态已同步（已脱敏），Git 仓库已拉取远程变更并完成合并，没有本地变更需要推送。同步状态已保存。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "assistant",
+        "知识",
+        "同步",
+        "完成",
+        "所有",
+        "核心",
+        "core",
+        "目录"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Sunday, April 12th, 2026 - 07:03 (Asia/Shanghai) / 2026-04-11 23:03 UTC Return your summary as plain text; it will be delivered automatic",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: 知识同步完成。脚本成功同步了核心文件、记忆目录、笔记目录、技能文档和 Star Office 状态，然后从远程仓库拉取最新变更（已是最新的），没有需要推送的本地变更。同步状态已保存。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "assistant",
+        "知识",
+        "同步",
+        "完成",
+        "脚本",
+        "成功",
+        "核心",
+        "文件"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Sunday, April 12th, 2026 - 05:02 (Asia/Shanghai) / 2026-04-11 21:02 UTC Return your summary as plain text; it will be delivered automatic",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: I'll run the knowledge-sync script to keep your workspace knowledge up to date.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "assistant",
+        "i'll",
+        "run",
+        "the",
+        "knowledge",
+        "sync",
+        "script"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: 知识同步完成！ 脚本执行成功，同步了以下内容： - 核心文件 (SOUL.md, USER.md, AGENTS.md, HEARTBEAT.md, ONBOARDING.md) - memory/ 目录 - notes/ 目录 - skills/ 文档 - Star Office 状态（已脱敏处理） Git 同步状态： - 已拉取远程变更（无更新） - 已合并远程变更 - 无本地变更需要推送 同步状态已保存至 `/home/deepnight/.openclaw/workspace/last-sync-state.json`，所有",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "soul.md",
+        "user.md",
+        "agents.md",
+        "heartbeat.md",
+        "onboarding.md",
+        "home/deepnight",
+        "assistant",
+        "知识"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Sunday, April 12th, 2026 - 03:01 (Asia/Shanghai) / 2026-04-11 19:01 UTC Return your summary as plain text; it will be delivered automatic",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: **知识同步完成** - ✅ 文件同步：SOUL.md、USER.md、AGENTS.md、HEARTBEAT.md、ONBOARDING.md 已同步至 core/ 目录 - ✅ 目录同步：memory/、notes/、skills/ 目录已同步 - ✅ Star Office 状态同步（已脱敏） - ✅ Git 同步：已拉取远程变更，无本地变更需要推送 - ✅ 状态保存：last-sync-state.json 已更新 同步于 2026-04-12 03:01 (Asia/Shanghai)，系统运行正常。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "soul.md",
+        "user.md",
+        "agents.md",
+        "heartbeat.md",
+        "onboarding.md",
+        "last-sync-state.json",
+        "asia/shanghai",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Sunday, April 12th, 2026 - 00:59 (Asia/Shanghai) / 2026-04-11 16:59 UTC Return your summary as plain text; it will be delivered automatic",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Assistant: I'll run the knowledge-sync script to synchronize and update your knowledge base.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "assistant",
+        "i'll",
+        "run",
+        "the",
+        "knowledge",
+        "sync",
+        "script"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: ## 知识同步完成 **执行结果：✅ 成功** ### 同步内容 - **核心文件**：SOUL.md、USER.md、AGENTS.md、HEARTBEAT.md、ONBOARDING.md → core/ 目录 - **目录同步**：memory/、notes/、skills/ 文档 - **状态同步**：Star Office 状态（已脱敏处理） - **Git 同步**：已拉取远程变更，已合并（无冲突），无本地变更需要推送 ### 状态保存 - 同步状态已保存至：`/home/deepnight/.openclaw/work",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "soul.md",
+        "user.md",
+        "agents.md",
+        "heartbeat.md",
+        "onboarding.md",
+        "home/deepnight",
+        "openclaw/work",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Sunday, April 12th, 2026 - 04:02 (Asia/Shanghai) / 2026-04-11 20:02 UTC Return your summary as plain text; it will be delivered automatic",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "Assistant: I'll run the knowledge sync script and provide you with a summary.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "assistant",
+        "i'll",
+        "run",
+        "the",
+        "knowledge",
+        "sync",
+        "script",
+        "provide"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "Assistant: ## 知识同步完成 **同步结果：** - 文件同步：SOUL.md、USER.md、AGENTS.md、HEARTBEAT.md、ONBOARDING.md、memory/、notes/、skills/ 文档已同步 - Git 同步：已拉取远程变更（已是最新的），无本地变更需要推送 - 状态保存：同步状态已保存到 `last-sync-state.json` **耗时：** ~4秒 **状态：** 成功完成，所有文件已更新到最新版本 同步过程顺利完成，没有冲突或错误。所有核心配置文件、记忆文档和技能文件都已保持最新状态。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "soul.md",
+        "user.md",
+        "agents.md",
+        "heartbeat.md",
+        "onboarding.md",
+        "last-sync-state.json",
+        "assistant",
+        "知识"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Sunday, April 12th, 2026 - 06:03 (Asia/Shanghai) / 2026-04-11 22:03 UTC Return your summary as plain text; it will be delivered automatic",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "Assistant: I'll run the knowledge-sync script to keep your workspace up to date.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "assistant",
+        "i'll",
+        "run",
+        "the",
+        "knowledge",
+        "sync",
+        "script"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "Assistant: 知识同步完成！✅ 本次同步结果： - ✅ 已同步核心配置文件（SOUL.md、USER.md、AGENTS.md 等） - ✅ 已同步 memory/ 和 notes/ 目录 - ✅ 已同步 skills/ 文档 - ✅ 已同步 star-office 状态（已脱敏处理） - ✅ Git 仓库已更新到最新状态 你的知识库现在保持最新，准备好迎接新的工作任务！",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "soul.md",
+        "user.md",
+        "agents.md",
+        "star-office",
+        "assistant",
+        "知识",
+        "同步",
+        "完成"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Sunday, April 12th, 2026 - 01:59 (Asia/Shanghai) / 2026-04-11 17:59 UTC Return your summary as plain text; it will be delivered automatic",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "Assistant: ## 知识同步完成 ✅ **知识同步成功！** ### 同步内容 - **文件同步**: SOUL.md、USER.md、AGENTS.md、HEARTBEAT.md、ONBOARDING.md 已同步到 core/ 目录 - **目录同步**: memory/、notes/、skills/ 目录已同步 - **状态同步**: star-office 状态已同步（已脱敏处理） - **Git 同步**: 远程变更已拉取并合并，无本地变更需要推送 ### 执行时间 - **任务**: 知识同步脚本 - **完成时间**: 2026-0",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "soul.md",
+        "user.md",
+        "agents.md",
+        "heartbeat.md",
+        "onboarding.md",
+        "star-office",
+        "2026-0",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-06.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-06.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-06.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: 现在我明白了！从日志中可以看到： **关键发现：** 1. 在 2026-04-05 的日志中，有多次尝试读取 memory 文件失败的记录： ``` [tools] read failed: ENOENT: no such file or directory, access '/home/deepnight/.openclaw/workspace/memory/2026-04-05.md' [tools] read failed: ENOENT: no such file or directory, access '/home/d",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "8bcfb54d0747"
+      ],
+      "recallDays": [
+        "2026-04-06",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "home/deepnight",
+        "home/d",
+        "assistant",
+        "现在",
+        "明白",
+        "日志",
+        "可以",
+        "看到"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-06.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-06.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-06.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 根据我的分析，**每天的 memory 文件缺失是因为在这段时间内没有触发需要写 post-mortem 的任务完成**。 根据 AGENTS.md 中的规则： - **On Task Completion** 时应该写 post-mortem 到 `memory/YYYY-MM-DD.md` - 如果某天没有完成需要记录的任务，就不会生成对应的 memory 文件 从日志和文件状态来看： - 3 月 24-25 日没有文件，说明这两天可能没有完成重要任务 - 4 月 4-5 日也没有文件，说明这两天可能也没有任务完成 - 系统在尝",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "8bcfb54d0747"
+      ],
+      "recallDays": [
+        "2026-04-06",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "post-mortem",
+        "agents.md",
+        "memory/yyyy-mm-dd.md",
+        "24-25",
+        "4-5",
+        "assistant",
+        "根据",
+        "我的"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-06.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-06.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-06.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-tui\", \"id\": \"openclaw-tui\", \"name\": \"openclaw-tui\", \"username\": \"openclaw-tui\" } ``` [Mon 2026-04-06 13:10 GMT+8] 你都会使用哪些技能",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "8bcfb54d0747"
+      ],
+      "recallDays": [
+        "2026-04-06",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "openclaw-tui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "tui"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-06.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-06.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-04-06.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: [[reply_to_current]]下面是我当前可用的技能（按功能分组，实际可用会随环境和权限动态调整）。如果你愿意，我也可以给出针对具体任务的最小技能组合和示例用法。 - 飞书相关 - feishu-doc：读取/写入飞书文档 - feishu-drive：管理飞书云盘 - feishu-wiki：知识库导航与检索 - feishu-messaging：向个人/群组发送消息 - feishu-perm：共享与权限管理 - feishu-app-scopes：查看/诊断应用权限 - 云端协作与代码托管 - github：与 Gi",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "8bcfb54d0747"
+      ],
+      "recallDays": [
+        "2026-04-06",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "reply-to-current",
+        "feishu-doc",
+        "读取/写入飞书文档",
+        "feishu-drive",
+        "feishu-wiki",
+        "feishu-messaging",
+        "向个人/群组发送消息",
+        "feishu-perm"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-06.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-06.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-04-06.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "8bcfb54d0747"
+      ],
+      "recallDays": [
+        "2026-04-06",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-06.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-06.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-04-06.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: 已读取并严格执行 HEARTBEAT.md 的自检步骤。当前有需要注意的事项，详情如下及建议的后续动作。 需要关注的事项 1) 微信/飞书网关相关会话过期与暂停 - 日志要点（来自 /tmp/openclaw/openclaw-2026-04-06.log）： - [c4f62119ad71-im-bot] getUpdates: session expired (errcode=-14 ret=undefined), pausing all requests for 60 min - session-guard: paused a",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "8bcfb54d0747"
+      ],
+      "recallDays": [
+        "2026-04-06",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "网关",
+        "heartbeat.md",
+        "微信/飞书网关相关会话过期与暂停",
+        "c4f62119ad71-im-bot",
+        "session-guard",
+        "assistant",
+        "严格",
+        "执行"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-06.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-06.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-04-06.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-tui\", \"id\": \"openclaw-tui\", \"name\": \"openclaw-tui\", \"username\": \"openclaw-tui\" } ``` [Mon 2026-04-06 21:02 GMT+8] 我的邮件管理功能是否正常，为什么没有收到天气预报的邮件了",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "8bcfb54d0747"
+      ],
+      "recallDays": [
+        "2026-04-06",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "openclaw-tui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "tui"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-06.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-06.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-04-06.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: 我需要帮你检查邮件管理功能和天气预报邮件的情况。让我先查看相关的配置和日志。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "8bcfb54d0747"
+      ],
+      "recallDays": [
+        "2026-04-06",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "assistant",
+        "需要",
+        "检查",
+        "邮件",
+        "管理",
+        "功能",
+        "天气",
+        "预报"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:76:76": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:76:76",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 76,
+      "endLine": 76,
+      "source": "memory",
+      "snippet": "Assistant: I see there are already proactive ideas recorded. Let me add a new proactive idea based on our recent work:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "assistant",
+        "see",
+        "already",
+        "proactive",
+        "ideas",
+        "recorded",
+        "let",
+        "add"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:77:77": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:77:77",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 77,
+      "endLine": 77,
+      "source": "memory",
+      "snippet": "Assistant: ## 4. 🧹 System Cleanup Not applicable (I'm an AI without local applications) ## 5. 🔄 Memory Maintenance Already updated memory files on 2026-04-07 and 2026-04-10 ## 6. 🧠 Memory Flush Not applicable (not ending a long session) ## 7. 🔄 Reverse Prompting (Weekly) This",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "assistant",
+        "system",
+        "cleanup",
+        "not",
+        "applicable",
+        "i'm",
+        "without",
+        "local"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:78:78": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:78:78",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 78,
+      "endLine": 78,
+      "source": "memory",
+      "snippet": "Assistant: Dreaming status: - enabled: on - sweep cadence: 0 3 * * * - promotion policy: score>=0.8, recalls>=3, uniqueQueries>=3",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "0.8",
+        "assistant",
+        "dreaming",
+        "status",
+        "enabled",
+        "sweep",
+        "cadence",
+        "promotion"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:79:79": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:79:79",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 79,
+      "endLine": 79,
+      "source": "memory",
+      "snippet": "Assistant: Usage: /dreaming status Usage: /dreaming on|off Dreaming status: - enabled: on - sweep cadence: 0 3 * * * - promotion policy: score>=0.8, recalls>=3, uniqueQueries>=3 Phases: - implementation detail: each sweep runs light -> REM -> deep. - deep is the only stage that w",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T00:09:29.509Z",
+      "lastRecalledAt": "2026-04-12T00:09:29.509Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "0.8",
+        "assistant",
+        "usage",
+        "dreaming",
+        "status",
+        "off",
+        "enabled",
+        "sweep"
       ]
     }
   }
