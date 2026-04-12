@@ -37,6 +37,31 @@
 - **Implementation effort:** ~2-3 小时（配置 GitHub Actions、构建脚本、发布流程）
 - **Bonus:** 支持自动更新（electron-updater），用户可自动获取新版本。
 
+## 2026-04-11
+
+**Idea: M3U Player Electron 自动构建和发布流水线**
+
+- **Problem:** M3U Player Electron 应用已经开发完成，但每次更新都需要手动构建和发布，缺乏自动化流程。
+- **Solution:** 创建 GitHub Actions 工作流，实现自动构建、测试和发布 Electron 应用到多个平台（Windows、macOS、Linux）。
+- **Delight factor:** 一键发布，自动构建，减少手动操作，提高发布效率。
+- **Implementation effort:** ~2-3 小时（配置 GitHub Actions、构建脚本、发布流程）
+- **Bonus:** 支持自动更新（electron-updater），用户可自动获取新版本。
+
+## 2026-04-12
+
+**Idea: M3U Player 桌面应用增强功能**
+
+- **Problem:** 当前 M3U Player 桌面应用功能基本完整，但缺乏一些提升用户体验的增强功能。
+- **Solution:** 添加以下增强功能：
+  - 系统托盘右键菜单（显示窗口、退出、设置）
+  - 快捷键支持（全局快捷键打开应用、播放/暂停）
+  - 自动更新检查（在后台定期检查新版本）
+  - 播放历史记录（记录最近播放的频道）
+  - 皮肤主题切换（支持多种配色主题）
+- **Delight factor:** 提升桌面应用的用户体验，更接近原生应用的使用习惯。
+- **Implementation effort:** ~4-5 小时（实现托盘菜单、快捷键、自动更新、历史记录功能）
+- **Bonus:** 添加设置界面，支持用户自定义配置。
+
 ## 2026-03-26 (2)
 
 **Idea: AppleCategory 变更即时通知**
