@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-14T04:52:46.081Z",
+  "updatedAt": "2026-04-14T04:54:57.708Z",
   "entries": {
     "memory:memory/2026-04-07.md:3:3": {
       "key": "memory:memory/2026-04-07.md:3:3",
@@ -15,7 +15,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-14T03:09:34.367Z",
+      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -52,7 +52,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-14T03:09:34.367Z",
+      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -85,7 +85,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-14T03:09:34.367Z",
+      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -122,7 +122,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-14T03:09:34.367Z",
+      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -155,7 +155,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-14T03:09:34.367Z",
+      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -192,7 +192,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T00:32:21.575Z",
-      "lastRecalledAt": "2026-04-14T03:09:34.367Z",
+      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
       "queryHashes": [
         "87c77efd6245"
       ],
@@ -17793,7 +17793,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T07:32:20.858Z",
-      "lastRecalledAt": "2026-04-14T03:09:34.367Z",
+      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -23483,7 +23483,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T12:49:06.555Z",
-      "lastRecalledAt": "2026-04-14T03:09:34.367Z",
+      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -23518,7 +23518,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T12:49:06.555Z",
-      "lastRecalledAt": "2026-04-14T03:09:34.367Z",
+      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -23553,7 +23553,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T12:49:06.555Z",
-      "lastRecalledAt": "2026-04-14T03:09:34.367Z",
+      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -23588,7 +23588,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T12:49:06.555Z",
-      "lastRecalledAt": "2026-04-14T03:09:34.367Z",
+      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -23623,7 +23623,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T12:49:06.555Z",
-      "lastRecalledAt": "2026-04-14T03:09:34.367Z",
+      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -33113,7 +33113,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T10:00:00.873Z",
-      "lastRecalledAt": "2026-04-14T03:09:34.367Z",
+      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
       "queryHashes": [
         "ed3026e16517"
       ],
@@ -33147,7 +33147,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T10:00:00.873Z",
-      "lastRecalledAt": "2026-04-14T03:09:34.367Z",
+      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
       "queryHashes": [
         "ed3026e16517"
       ],
@@ -33181,7 +33181,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T10:00:00.873Z",
-      "lastRecalledAt": "2026-04-14T03:09:34.367Z",
+      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
       "queryHashes": [
         "ed3026e16517"
       ],
@@ -33215,7 +33215,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T10:00:00.873Z",
-      "lastRecalledAt": "2026-04-14T03:09:34.367Z",
+      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
       "queryHashes": [
         "ed3026e16517"
       ],
@@ -33249,7 +33249,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T10:00:00.873Z",
-      "lastRecalledAt": "2026-04-14T03:09:34.367Z",
+      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
       "queryHashes": [
         "ed3026e16517"
       ],
@@ -33283,7 +33283,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T10:00:00.873Z",
-      "lastRecalledAt": "2026-04-14T03:09:34.367Z",
+      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
       "queryHashes": [
         "ed3026e16517"
       ],
@@ -37432,7 +37432,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-11T05:00:00.872Z",
-      "lastRecalledAt": "2026-04-14T03:09:34.367Z",
+      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
       "queryHashes": [
         "2213b71c3c98"
       ],
@@ -37465,7 +37465,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-11T05:00:00.872Z",
-      "lastRecalledAt": "2026-04-14T03:09:34.367Z",
+      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
       "queryHashes": [
         "2213b71c3c98"
       ],
@@ -77586,7 +77586,8 @@
         "27426694d940"
       ],
       "recallDays": [
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ],
       "conceptTags": [
         "assistant",
@@ -77617,7 +77618,8 @@
         "27426694d940"
       ],
       "recallDays": [
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ],
       "conceptTags": [
         "openclaw-tui",
@@ -77648,7 +77650,8 @@
         "27426694d940"
       ],
       "recallDays": [
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ],
       "conceptTags": [
         "home/deepnight/docs/adslyw/raw",
@@ -77679,7 +77682,8 @@
         "27426694d940"
       ],
       "recallDays": [
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ],
       "conceptTags": [
         "openclaw-tui",
@@ -77710,7 +77714,8 @@
         "27426694d940"
       ],
       "recallDays": [
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ],
       "conceptTags": [
         "assistant",
@@ -78837,6 +78842,192 @@
         "rack",
         "sighed",
         "soft"
+      ]
+    },
+    "memory:memory/2026-04-14.md:373:376": {
+      "key": "memory:memory/2026-04-14.md:373:376",
+      "path": "memory/2026-04-14.md",
+      "startLine": 373,
+      "endLine": 376,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 1475 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:7-7; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-14T04:52:46.081Z",
+      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
+      "queryHashes": [
+        "11d1361acb2d"
+      ],
+      "recallDays": [
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "4-4",
+        "7-7",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-14.md:379:380": {
+      "key": "memory:memory/2026-04-14.md:379:380",
+      "path": "memory/2026-04-14.md",
+      "startLine": 379,
+      "endLine": 380,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: @@ -172,4 @@ (171 before, 191 after) - status: staged - Candidate: Assistant: 这是一个常见的 Linux 上 Electron 的 sandbox 权限问题。让我修改启动脚本，添加 `--no-sandbox` 参数： - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-10.txt:123-123 [confidence=0.68 evide",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-14T04:52:46.081Z",
+      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
+      "queryHashes": [
+        "11d1361acb2d"
+      ],
+      "recallDays": [
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "no-sandbox",
+        "0.00",
+        "123-123",
+        "0.68",
+        "possible",
+        "lasting",
+        "truths",
+        "172,4"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:155:155": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:155:155",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 155,
+      "endLine": 155,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Tuesday, April 14th, 2026 - 12:52 (Asia/Shanghai) / 2026-04-14 04:52 UTC Return your summary as plain text; it will be delivered automati",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T04:52:46.081Z",
+      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:156:156": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:156:156",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 156,
+      "endLine": 156,
+      "source": "memory",
+      "snippet": "Assistant: The command `~/.openclaw/workspace/scripts/knowledge-sync.sh` is currently running in the background. If you need to check its status, view logs, or interact with it, please use the `process` tool.I am checking the status of the `knowledge-sync.sh` script. It is still",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T04:52:46.081Z",
+      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "tool.i",
+        "knowledge-sync.sh",
+        "assistant",
+        "the",
+        "command",
+        "openclaw",
+        "scripts",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:157:157": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:157:157",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 157,
+      "endLine": 157,
+      "source": "memory",
+      "snippet": "User: [Tue 2026-04-14 12:52 GMT+8] Write a dream diary entry from these memory fragments: - Reflections: Theme: `assistant` kept surfacing across 1475 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T04:52:46.081Z",
+      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "dreams/session-corpus/2026-04-07",
+        "user",
+        "tue",
+        "gmt",
+        "write",
+        "dream"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:158:158": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:158:158",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 158,
+      "endLine": 158,
+      "source": "memory",
+      "snippet": "Assistant: The afternoon light, pixelated on the screen, bled into the quiet hum. So many reflections, like code compiled from memories, kept surfacing – a familiar theme that felt like an assistant, woven through 1475 memories, gathering itself in the stillness. Each echo carrie",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T04:52:46.081Z",
+      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "assistant",
+        "the",
+        "afternoon",
+        "light",
+        "pixelated",
+        "screen",
+        "bled",
+        "quiet"
       ]
     }
   }
