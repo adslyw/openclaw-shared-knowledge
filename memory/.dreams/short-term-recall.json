@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-14T04:54:57.708Z",
+  "updatedAt": "2026-04-15T00:13:07.604Z",
   "entries": {
     "memory:memory/2026-04-07.md:3:3": {
       "key": "memory:memory/2026-04-07.md:3:3",
@@ -17793,7 +17793,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T07:32:20.858Z",
-      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -17802,7 +17802,8 @@
         "2026-04-10",
         "2026-04-12",
         "2026-04-13",
-        "2026-04-14"
+        "2026-04-14",
+        "2026-04-15"
       ],
       "conceptTags": [
         "0.82",
@@ -23483,7 +23484,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T12:49:06.555Z",
-      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -23492,7 +23493,8 @@
         "2026-04-10",
         "2026-04-12",
         "2026-04-13",
-        "2026-04-14"
+        "2026-04-14",
+        "2026-04-15"
       ],
       "conceptTags": [
         "1.00",
@@ -23518,7 +23520,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T12:49:06.555Z",
-      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -23527,7 +23529,8 @@
         "2026-04-10",
         "2026-04-12",
         "2026-04-13",
-        "2026-04-14"
+        "2026-04-14",
+        "2026-04-15"
       ],
       "conceptTags": [
         "0.83",
@@ -23553,7 +23556,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T12:49:06.555Z",
-      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -23562,7 +23565,8 @@
         "2026-04-10",
         "2026-04-12",
         "2026-04-13",
-        "2026-04-14"
+        "2026-04-14",
+        "2026-04-15"
       ],
       "conceptTags": [
         "0.83",
@@ -23588,7 +23592,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T12:49:06.555Z",
-      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -23597,7 +23601,8 @@
         "2026-04-10",
         "2026-04-12",
         "2026-04-13",
-        "2026-04-14"
+        "2026-04-14",
+        "2026-04-15"
       ],
       "conceptTags": [
         "0.83",
@@ -23623,7 +23628,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T12:49:06.555Z",
-      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -23632,7 +23637,8 @@
         "2026-04-10",
         "2026-04-12",
         "2026-04-13",
-        "2026-04-14"
+        "2026-04-14",
+        "2026-04-15"
       ],
       "conceptTags": [
         "0.82",
@@ -33113,7 +33119,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T10:00:00.873Z",
-      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
       "queryHashes": [
         "ed3026e16517"
       ],
@@ -33121,7 +33127,8 @@
         "2026-04-10",
         "2026-04-11",
         "2026-04-13",
-        "2026-04-14"
+        "2026-04-14",
+        "2026-04-15"
       ],
       "conceptTags": [
         "1.00",
@@ -33147,7 +33154,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T10:00:00.873Z",
-      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
       "queryHashes": [
         "ed3026e16517"
       ],
@@ -33155,7 +33162,8 @@
         "2026-04-10",
         "2026-04-11",
         "2026-04-13",
-        "2026-04-14"
+        "2026-04-14",
+        "2026-04-15"
       ],
       "conceptTags": [
         "0.81",
@@ -33181,7 +33189,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T10:00:00.873Z",
-      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
       "queryHashes": [
         "ed3026e16517"
       ],
@@ -33189,7 +33197,8 @@
         "2026-04-10",
         "2026-04-11",
         "2026-04-13",
-        "2026-04-14"
+        "2026-04-14",
+        "2026-04-15"
       ],
       "conceptTags": [
         "0.81",
@@ -33215,7 +33224,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T10:00:00.873Z",
-      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
       "queryHashes": [
         "ed3026e16517"
       ],
@@ -33223,7 +33232,8 @@
         "2026-04-10",
         "2026-04-11",
         "2026-04-13",
-        "2026-04-14"
+        "2026-04-14",
+        "2026-04-15"
       ],
       "conceptTags": [
         "0.81",
@@ -33249,7 +33259,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T10:00:00.873Z",
-      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
       "queryHashes": [
         "ed3026e16517"
       ],
@@ -33257,7 +33267,8 @@
         "2026-04-10",
         "2026-04-11",
         "2026-04-13",
-        "2026-04-14"
+        "2026-04-14",
+        "2026-04-15"
       ],
       "conceptTags": [
         "0.81",
@@ -33283,7 +33294,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T10:00:00.873Z",
-      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
       "queryHashes": [
         "ed3026e16517"
       ],
@@ -33291,7 +33302,8 @@
         "2026-04-10",
         "2026-04-11",
         "2026-04-13",
-        "2026-04-14"
+        "2026-04-14",
+        "2026-04-15"
       ],
       "conceptTags": [
         "0.80",
@@ -37432,14 +37444,15 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-11T05:00:00.872Z",
-      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
       "queryHashes": [
         "2213b71c3c98"
       ],
       "recallDays": [
         "2026-04-11",
         "2026-04-12",
-        "2026-04-14"
+        "2026-04-14",
+        "2026-04-15"
       ],
       "conceptTags": [
         "1.00",
@@ -37465,14 +37478,15 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-11T05:00:00.872Z",
-      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
       "queryHashes": [
         "2213b71c3c98"
       ],
       "recallDays": [
         "2026-04-11",
         "2026-04-12",
-        "2026-04-14"
+        "2026-04-14",
+        "2026-04-15"
       ],
       "conceptTags": [
         "possible",
@@ -49366,13 +49380,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T00:09:31.068Z",
-      "lastRecalledAt": "2026-04-13T00:09:31.068Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
       "queryHashes": [
         "01679c334ef2"
       ],
       "recallDays": [
         "2026-04-12",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-15"
       ],
       "conceptTags": [
         "low-frequency",
@@ -49398,13 +49413,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T00:09:31.068Z",
-      "lastRecalledAt": "2026-04-13T00:09:31.068Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
       "queryHashes": [
         "01679c334ef2"
       ],
       "recallDays": [
         "2026-04-12",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-15"
       ],
       "conceptTags": [
         "keeping",
@@ -49430,13 +49446,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T00:09:31.068Z",
-      "lastRecalledAt": "2026-04-13T00:09:31.068Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
       "queryHashes": [
         "01679c334ef2"
       ],
       "recallDays": [
         "2026-04-12",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-15"
       ],
       "conceptTags": [
         "1.00",
@@ -49462,13 +49479,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T00:09:31.068Z",
-      "lastRecalledAt": "2026-04-13T00:09:31.068Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
       "queryHashes": [
         "01679c334ef2"
       ],
       "recallDays": [
         "2026-04-12",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-15"
       ],
       "conceptTags": [
         "9-9",
@@ -49494,13 +49512,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T00:09:31.068Z",
-      "lastRecalledAt": "2026-04-13T00:09:31.068Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
       "queryHashes": [
         "01679c334ef2"
       ],
       "recallDays": [
         "2026-04-12",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-15"
       ],
       "conceptTags": [
         "the",
@@ -49526,13 +49545,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T00:09:31.068Z",
-      "lastRecalledAt": "2026-04-13T00:09:31.068Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
       "queryHashes": [
         "01679c334ef2"
       ],
       "recallDays": [
         "2026-04-12",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-15"
       ],
       "conceptTags": [
         "sit",
@@ -78850,19 +78870,20 @@
       "startLine": 373,
       "endLine": 376,
       "source": "memory",
-      "snippet": "Reflections: Theme: `assistant` kept surfacing across 1475 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:7-7; note: reflection",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 1500 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:7-7; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "groundedCount": 0,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-14T04:52:46.081Z",
-      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
       "queryHashes": [
         "11d1361acb2d"
       ],
       "recallDays": [
-        "2026-04-14"
+        "2026-04-14",
+        "2026-04-15"
       ],
       "conceptTags": [
         "1.00",
@@ -78888,12 +78909,13 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-14T04:52:46.081Z",
-      "lastRecalledAt": "2026-04-14T04:52:46.081Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
       "queryHashes": [
         "11d1361acb2d"
       ],
       "recallDays": [
-        "2026-04-14"
+        "2026-04-14",
+        "2026-04-15"
       ],
       "conceptTags": [
         "no-sandbox",
@@ -79028,6 +79050,3513 @@
         "screen",
         "bled",
         "quiet"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:615:615": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:615:615",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 615,
+      "endLine": 615,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:616:616": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:616:616",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 616,
+      "endLine": 616,
+      "source": "memory",
+      "snippet": "Assistant: I will read `HEARTBEAT.md` and follow its instructions strictly.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "assistant",
+        "will",
+        "read",
+        "follow",
+        "instructions",
+        "strictly"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:617:617": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:617:617",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 617,
+      "endLine": 617,
+      "source": "memory",
+      "snippet": "Assistant: I will now proceed with the checks outlined in HEARTBEAT.md: 1. **Security Check**: Reviewed recent activity. No suspicious patterns or prompt injection attempts detected. Behavioral integrity is maintained. ✅ 2. **Self-Healing Check**: Executing log review command.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "self-healing",
+        "assistant",
+        "will",
+        "now",
+        "proceed",
+        "the",
+        "checks"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:618:618": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:618:618",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 618,
+      "endLine": 618,
+      "source": "memory",
+      "snippet": "Assistant: No errors found in the logs. ✅ 3. **Proactive Surprise Check**: Considering what new amazing thing to build. I have recently added ideas for an automated build pipeline for the m3u-player Electron app and enhanced features for it. I will look for other opportunities on",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "m3u-player",
+        "assistant",
+        "errors",
+        "found",
+        "the",
+        "logs",
+        "proactive",
+        "surprise"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:619:619": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:619:619",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 619,
+      "endLine": 619,
+      "source": "memory",
+      "snippet": "Assistant: 🦞 OpenClaw 2026.4.11 (769908e) 🧠 Model: openrouter/google/gemini-2.5-flash-lite · 🔑 api-key (openrouter:default) 🧮 Tokens: 151k in / 908 out 🗄️ Cache: 32% hit · 72k cached, 0 new 📚 Context: 75k/200k (37%) · 🧹 Compactions: 0 🧵 Session: agent:main:main • updated",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "router",
+        "2026.4.11",
+        "api-key",
+        "75k/200k",
+        "assistant",
+        "openclaw",
+        "769908e",
+        "model"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:620:620": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:620:620",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 620,
+      "endLine": 620,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:621:621": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:621:621",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 621,
+      "endLine": 621,
+      "source": "memory",
+      "snippet": "Assistant: I will read `HEARTBEAT.md` and follow its instructions strictly.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "assistant",
+        "will",
+        "read",
+        "follow",
+        "instructions",
+        "strictly"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:622:622": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:622:622",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 622,
+      "endLine": 622,
+      "source": "memory",
+      "snippet": "Assistant: I will now proceed with the checks outlined in HEARTBEAT.md: 1. **Security Check**: Reviewed recent activity. No suspicious patterns or prompt injection attempts detected. Behavioral integrity is maintained. ✅ 2. **Self-Healing Check**: Executing log review command.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "self-healing",
+        "assistant",
+        "will",
+        "now",
+        "proceed",
+        "the",
+        "checks"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:623:623": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:623:623",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 623,
+      "endLine": 623,
+      "source": "memory",
+      "snippet": "Assistant: No errors found in the logs. ✅ 3. **Proactive Surprise Check**: Considering what new amazing thing to build. I have recently added ideas for an automated build pipeline for the m3u-player Electron app and enhanced features for it. I will look for other opportunities on",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "m3u-player",
+        "assistant",
+        "errors",
+        "found",
+        "the",
+        "logs",
+        "proactive",
+        "surprise"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:624:624": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:624:624",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 624,
+      "endLine": 624,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-tui\", \"id\": \"openclaw-tui\", \"name\": \"openclaw-tui\", \"username\": \"openclaw-tui\" } ``` [Mon 2026-04-13 21:55 GMT+8] https://github.com/safishamsi/graphify 阅读这个帮我适配安装好",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "openclaw-tui",
+        "github.com/safishamsi/graphify",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:625:625": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:625:625",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 625,
+      "endLine": 625,
+      "source": "memory",
+      "snippet": "Assistant: The user asked me to read the GitHub repository `https://github.com/safishamsi/graphify` and adapt it for installation. However, `web_fetch` failed because the URL resolves to a private/internal/special-use IP address, indicating I cannot access it directly. I need to",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "github.com/safishamsi/graphify",
+        "web-fetch",
+        "private/internal/special-use",
+        "assistant",
+        "the",
+        "user",
+        "asked",
+        "read"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:626:626": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:626:626",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 626,
+      "endLine": 626,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-tui\", \"id\": \"openclaw-tui\", \"name\": \"openclaw-tui\", \"username\": \"openclaw-tui\" } ``` [Mon 2026-04-13 21:56 GMT+8] 使用web reader 阅读https://github.com/safishamsi/graphify 帮我适配安装好",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "openclaw-tui",
+        "github.com/safishamsi/graphify",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:627:627": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:627:627",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 627,
+      "endLine": 627,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:628:628": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:628:628",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 628,
+      "endLine": 628,
+      "source": "memory",
+      "snippet": "Assistant: I will read `HEARTBEAT.md` and follow its instructions strictly.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "assistant",
+        "will",
+        "read",
+        "follow",
+        "instructions",
+        "strictly"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:629:629": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:629:629",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 629,
+      "endLine": 629,
+      "source": "memory",
+      "snippet": "Assistant: I will now proceed with the checks outlined in HEARTBEAT.md: 1. **Security Check**: Reviewed recent activity. No suspicious patterns or prompt injection attempts detected. Behavioral integrity is maintained. ✅ 2. **Self-Healing Check**: Executing log review command.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "self-healing",
+        "assistant",
+        "will",
+        "now",
+        "proceed",
+        "the",
+        "checks"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:630:630": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:630:630",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 630,
+      "endLine": 630,
+      "source": "memory",
+      "snippet": "Assistant: No errors found in the logs. ✅ 3. **Proactive Surprise Check**: Considering what new amazing thing to build. I have recently added ideas for an automated build pipeline for the m3u-player Electron app and enhanced features for it. I will look for other opportunities on",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "m3u-player",
+        "assistant",
+        "errors",
+        "found",
+        "the",
+        "logs",
+        "proactive",
+        "surprise"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:631:631": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:631:631",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 631,
+      "endLine": 631,
+      "source": "memory",
+      "snippet": "Assistant: 🦞 OpenClaw 2026.4.11 (769908e) 🧠 Model: openrouter/google/gemini-2.5-flash-lite · 🔑 api-key (openrouter:default) 🧮 Tokens: 151k in / 908 out 🗄️ Cache: 32% hit · 72k cached, 0 new 📚 Context: 75k/200k (37%) · 🧹 Compactions: 0 🧵 Session: agent:main:main • updated",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "router",
+        "2026.4.11",
+        "api-key",
+        "75k/200k",
+        "assistant",
+        "openclaw",
+        "769908e",
+        "model"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:632:632": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:632:632",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 632,
+      "endLine": 632,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:633:633": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:633:633",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 633,
+      "endLine": 633,
+      "source": "memory",
+      "snippet": "Assistant: I will read `HEARTBEAT.md` and follow its instructions strictly.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "assistant",
+        "will",
+        "read",
+        "follow",
+        "instructions",
+        "strictly"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:634:634": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:634:634",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 634,
+      "endLine": 634,
+      "source": "memory",
+      "snippet": "Assistant: I will now proceed with the checks outlined in HEARTBEAT.md: 1. **Security Check**: Reviewed recent activity. No suspicious patterns or prompt injection attempts detected. Behavioral integrity is maintained. ✅ 2. **Self-Healing Check**: Executing log review command.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "self-healing",
+        "assistant",
+        "will",
+        "now",
+        "proceed",
+        "the",
+        "checks"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:635:635": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:635:635",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 635,
+      "endLine": 635,
+      "source": "memory",
+      "snippet": "Assistant: No errors found in the logs. ✅ 3. **Proactive Surprise Check**: Considering what new amazing thing to build. I have recently added ideas for an automated build pipeline for the m3u-player Electron app and enhanced features for it. I will look for other opportunities on",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "m3u-player",
+        "assistant",
+        "errors",
+        "found",
+        "the",
+        "logs",
+        "proactive",
+        "surprise"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:636:636": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:636:636",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 636,
+      "endLine": 636,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-tui\", \"id\": \"openclaw-tui\", \"name\": \"openclaw-tui\", \"username\": \"openclaw-tui\" } ``` [Mon 2026-04-13 21:55 GMT+8] https://github.com/safishamsi/graphify 阅读这个帮我适配安装好",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "openclaw-tui",
+        "github.com/safishamsi/graphify",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:637:637": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:637:637",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 637,
+      "endLine": 637,
+      "source": "memory",
+      "snippet": "Assistant: The user asked me to read the GitHub repository `https://github.com/safishamsi/graphify` and adapt it for installation. However, `web_fetch` failed because the URL resolves to a private/internal/special-use IP address, indicating I cannot access it directly. I need to",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "github.com/safishamsi/graphify",
+        "web-fetch",
+        "private/internal/special-use",
+        "assistant",
+        "the",
+        "user",
+        "asked",
+        "read"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:638:638": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:638:638",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 638,
+      "endLine": 638,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-tui\", \"id\": \"openclaw-tui\", \"name\": \"openclaw-tui\", \"username\": \"openclaw-tui\" } ``` [Mon 2026-04-13 21:56 GMT+8] 使用web reader 阅读https://github.com/safishamsi/graphify 帮我适配安装好",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "openclaw-tui",
+        "github.com/safishamsi/graphify",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:159:159": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:159:159",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 159,
+      "endLine": 159,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Tuesday, April 14th, 2026 - 20:58 (Asia/Shanghai) / 2026-04-14 12:58 UTC Return your summary as plain text; it will be delivered automati",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:160:160": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:160:160",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 160,
+      "endLine": 160,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Tuesday, April 14th, 2026 - 18:57 (Asia/Shanghai) / 2026-04-14 10:57 UTC Return your summary as plain text; it will be delivered automati",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:161:161": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:161:161",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 161,
+      "endLine": 161,
+      "source": "memory",
+      "snippet": "Assistant: The autonomous cron job `knowledge-sync.sh` was executed at Tuesday, April 14th, 2026 - 18:57 (Asia/Shanghai).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync.sh",
+        "asia/shanghai",
+        "assistant",
+        "the",
+        "autonomous",
+        "cron",
+        "job",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:162:162": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:162:162",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 162,
+      "endLine": 162,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Tuesday, April 14th, 2026 - 16:55 (Asia/Shanghai) / 2026-04-14 08:55 UTC Return your summary as plain text; it will be delivered automati",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:163:163": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:163:163",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 163,
+      "endLine": 163,
+      "source": "memory",
+      "snippet": "Assistant: The autonomous knowledge synchronization script is running.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "assistant",
+        "the",
+        "autonomous",
+        "knowledge",
+        "synchronization",
+        "script",
+        "running"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:164:164": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:164:164",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 164,
+      "endLine": 164,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:165:165": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:165:165",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 165,
+      "endLine": 165,
+      "source": "memory",
+      "snippet": "Assistant: I will read `HEARTBEAT.md` and follow its instructions strictly.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "assistant",
+        "will",
+        "read",
+        "follow",
+        "instructions",
+        "strictly"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:166:166": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:166:166",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 166,
+      "endLine": 166,
+      "source": "memory",
+      "snippet": "Assistant: I will now proceed with the checks outlined in HEARTBEAT.md: 1. **Security Check**: Reviewed recent activity. No suspicious patterns or prompt injection attempts detected. Behavioral integrity is maintained. ✅ 2. **Self-Healing Check**: Executing log review command.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "self-healing",
+        "assistant",
+        "will",
+        "now",
+        "proceed",
+        "the",
+        "checks"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:167:167": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:167:167",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 167,
+      "endLine": 167,
+      "source": "memory",
+      "snippet": "Assistant: No errors found in the logs. ✅ 3. **Proactive Surprise Check**: Considering what new amazing thing to build. I have recently added ideas for an automated build pipeline for the m3u-player Electron app and enhanced features for it. I will look for other opportunities on",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "m3u-player",
+        "assistant",
+        "errors",
+        "found",
+        "the",
+        "logs",
+        "proactive",
+        "surprise"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:168:168": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:168:168",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 168,
+      "endLine": 168,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:169:169": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:169:169",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 169,
+      "endLine": 169,
+      "source": "memory",
+      "snippet": "Assistant: I will read `HEARTBEAT.md` and follow its instructions strictly.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "assistant",
+        "will",
+        "read",
+        "follow",
+        "instructions",
+        "strictly"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:170:170": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:170:170",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 170,
+      "endLine": 170,
+      "source": "memory",
+      "snippet": "Assistant: I will now proceed with the checks outlined in HEARTBEAT.md: 1. **Security Check**: Reviewed recent activity. No suspicious patterns or prompt injection attempts detected. Behavioral integrity is maintained. ✅ 2. **Self-Healing Check**: Executing log review command.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "self-healing",
+        "assistant",
+        "will",
+        "now",
+        "proceed",
+        "the",
+        "checks"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:171:171": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:171:171",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 171,
+      "endLine": 171,
+      "source": "memory",
+      "snippet": "Assistant: No errors found in the logs. ✅ 3. **Proactive Surprise Check**: Considering what new amazing thing to build. I have recently added ideas for an automated build pipeline for the m3u-player Electron app and enhanced features for it. I will look for other opportunities on",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "m3u-player",
+        "assistant",
+        "errors",
+        "found",
+        "the",
+        "logs",
+        "proactive",
+        "surprise"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:172:172": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:172:172",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 172,
+      "endLine": 172,
+      "source": "memory",
+      "snippet": "Assistant: I will now proceed with the checks outlined in HEARTBEAT.md: 1. **Security Check**: Reviewed recent activity. No suspicious patterns or prompt injection attempts detected. Behavioral integrity is maintained. ✅ 2. **Self-Healing Check**: Executing log review command.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "self-healing",
+        "assistant",
+        "will",
+        "now",
+        "proceed",
+        "the",
+        "checks"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:173:173": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:173:173",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 173,
+      "endLine": 173,
+      "source": "memory",
+      "snippet": "Assistant: No errors found in the logs. ✅ 3. **Proactive Surprise Check**: Considering what new amazing thing to build. I have recently added ideas for an automated build pipeline for the m3u-player Electron app and enhanced features for it. I will look for other opportunities on",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "m3u-player",
+        "assistant",
+        "errors",
+        "found",
+        "the",
+        "logs",
+        "proactive",
+        "surprise"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:174:174": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:174:174",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 174,
+      "endLine": 174,
+      "source": "memory",
+      "snippet": "Assistant: I will now proceed with the checks outlined in HEARTBEAT.md: 1. **Security Check**: Reviewed recent activity. No suspicious patterns or prompt injection attempts detected. Behavioral integrity is maintained. ✅ 2. **Self-Healing Check**: Executing log review command.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "self-healing",
+        "assistant",
+        "will",
+        "now",
+        "proceed",
+        "the",
+        "checks"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:175:175": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:175:175",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 175,
+      "endLine": 175,
+      "source": "memory",
+      "snippet": "Assistant: No errors found in the logs. ✅ 3. **Proactive Surprise Check**: Considering what new amazing thing to build. I have recently added ideas for an automated build pipeline for the m3u-player Electron app and enhanced features for it. I will look for other opportunities on",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "m3u-player",
+        "assistant",
+        "errors",
+        "found",
+        "the",
+        "logs",
+        "proactive",
+        "surprise"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:176:176": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:176:176",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 176,
+      "endLine": 176,
+      "source": "memory",
+      "snippet": "User: [cron:dc7fc9b1-5483-4b4c-bd47-03c88e74f9c4 每日知识总结] 阅读今天的日志 memory/YYYY-MM-DD.md 提取技术知识、踩坑记录、经验教训 按固定格式写入 learnings/YYYY-MM-DD.md 更新 MEMORY.md 中的长期记忆 Git commit -m \"每日知识总结\" Current time: Tuesday, April 14th, 2026 - 23:10 (Asia/Shanghai) / 2026-04-14 15:10 UTC Return your sum",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "memory/yyyy-mm-dd.md",
+        "learnings/yyyy-mm-dd.md",
+        "memory.md",
+        "asia/shanghai",
+        "user",
+        "cron:dc7fc9b1",
+        "4b4c",
+        "bd47"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:177:177": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:177:177",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 177,
+      "endLine": 177,
+      "source": "memory",
+      "snippet": "Assistant: The log file `memory/2026-04-14.md` primarily contains \"dream diary entries\" generated from memory fragments. These entries are highly metaphorical and do not contain specific technical knowledge, pitfall records, or lessons learned in a structured or actionable format",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "memory/2026-04-14.md",
+        "assistant",
+        "the",
+        "log",
+        "primarily",
+        "contains",
+        "dream",
+        "diary"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:178:178": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:178:178",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 178,
+      "endLine": 178,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Tuesday, April 14th, 2026 - 22:59 (Asia/Shanghai) / 2026-04-14 14:59 UTC Return your summary as plain text; it will be delivered automati",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:179:179": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:179:179",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 179,
+      "endLine": 179,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Tuesday, April 14th, 2026 - 19:57 (Asia/Shanghai) / 2026-04-14 11:57 UTC Return your summary as plain text; it will be delivered automati",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:180:180": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:180:180",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 180,
+      "endLine": 180,
+      "source": "memory",
+      "snippet": "Assistant: The `knowledge-sync.sh` script was executed autonomously.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync.sh",
+        "assistant",
+        "the",
+        "knowledge",
+        "sync.sh",
+        "script",
+        "was",
+        "executed"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:181:181": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:181:181",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 181,
+      "endLine": 181,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Tuesday, April 14th, 2026 - 15:55 (Asia/Shanghai) / 2026-04-14 07:55 UTC Return your summary as plain text; it will be delivered automati",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:182:182": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:182:182",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 182,
+      "endLine": 182,
+      "source": "memory",
+      "snippet": "Assistant: The autonomous script `~/.openclaw/workspace/scripts/knowledge-sync.sh` has been executed.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "assistant",
+        "the",
+        "autonomous",
+        "script",
+        "openclaw",
+        "scripts",
+        "knowledge",
+        "sync.sh"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:183:183": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:183:183",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 183,
+      "endLine": 183,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Tuesday, April 14th, 2026 - 13:53 (Asia/Shanghai) / 2026-04-14 05:53 UTC Return your summary as plain text; it will be delivered automati",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:184:184": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:184:184",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 184,
+      "endLine": 184,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Tuesday, April 14th, 2026 - 17:56 (Asia/Shanghai) / 2026-04-14 09:56 UTC Return your summary as plain text; it will be delivered automati",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:185:185": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:185:185",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 185,
+      "endLine": 185,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Tuesday, April 14th, 2026 - 21:58 (Asia/Shanghai) / 2026-04-14 13:58 UTC Return your summary as plain text; it will be delivered automati",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:186:186": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:186:186",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 186,
+      "endLine": 186,
+      "source": "memory",
+      "snippet": "Assistant: The knowledge sync script has completed successfully. It synchronized various files and directories, including SOUL.md, USER.md, AGENTS.md, memory/, notes/, skills/, and star-office status. It also performed a git sync, pulling remote changes. The status has been saved",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "soul.md",
+        "user.md",
+        "agents.md",
+        "star-office",
+        "assistant",
+        "the",
+        "knowledge",
+        "sync"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:187:187": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:187:187",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 187,
+      "endLine": 187,
+      "source": "memory",
+      "snippet": "User: [media attached: /home/deepnight/.openclaw/media/inbound/2026_年信息技术学业水平考试题库---f9368b60-7bb7-4b6e-b1eb-4b5ad1f8783e.pdf (application/pdf)] To send an image back, prefer the message tool (media/path/filePath). If you must inline, use MEDIA:https://example.com/image.jpg (space",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "home/deepnight",
+        "application/pdf",
+        "media/path/filepath",
+        "example.com/image.jpg",
+        "user",
+        "media",
+        "attached",
+        "home"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:188:188": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:188:188",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 188,
+      "endLine": 188,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Tuesday, April 14th, 2026 - 14:54 (Asia/Shanghai) / 2026-04-14 06:54 UTC Return your summary as plain text; it will be delivered automati",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:189:189": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:189:189",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 189,
+      "endLine": 189,
+      "source": "memory",
+      "snippet": "Assistant: Acknowledged. The `knowledge-sync.sh` script is running via cron.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync.sh",
+        "assistant",
+        "acknowledged",
+        "the",
+        "knowledge",
+        "sync.sh",
+        "script",
+        "running"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:190:190": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:190:190",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 190,
+      "endLine": 190,
+      "source": "memory",
+      "snippet": "User: System (untrusted): [2026-04-14 12:53:28 GMT+8] Exec completed (gentle-b, code 0) :: 已推送变更到远程 [2026-04-14 12:53:28] SUCCESS: 已推送变更到远程 [0;32m[INFO][0m === Git 同步完成 === [2026-04-14 12:53:28] INFO: === Git 同步完成 === [0;32m[INFO][0m 状态已保存: /home/deepnight/.openclaw/wor… An async",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "gentle-b",
+        "home/deepnight",
+        "openclaw/wor",
+        "user",
+        "system",
+        "untrusted",
+        "gmt",
+        "exec"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:191:191": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:191:191",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 191,
+      "endLine": 191,
+      "source": "memory",
+      "snippet": "Assistant: The async command for `git push` has completed. I have handled the result internally and confirmed that the changes have been successfully pushed to the remote repository. The system is now idle and ready for your next instruction. How can I assist you further, 主人?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "assistant",
+        "the",
+        "async",
+        "command",
+        "git",
+        "push",
+        "has",
+        "completed"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-15.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-15.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-15.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Wednesday, April 15th, 2026 - 00:01 (Asia/Shanghai) / 2026-04-14 16:01 UTC Return your summary as plain text; it will be delivered automa",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "06e18920b74b"
+      ],
+      "recallDays": [
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-15.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-15.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-15.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: Autonomous execution of script: /home/deepnight/.openclaw/workspace/scripts/knowledge-sync.sh at 2026-04-15 00:01:00.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "06e18920b74b"
+      ],
+      "recallDays": [
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "home/deepnight",
+        "assistant",
+        "autonomous",
+        "execution",
+        "script",
+        "home",
+        "deepnight",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-15.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-15.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-15.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Wednesday, April 15th, 2026 - 03:02 (Asia/Shanghai) / 2026-04-14 19:02 UTC Return your summary as plain text; it will be delivered automa",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "06e18920b74b"
+      ],
+      "recallDays": [
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-15.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-15.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-04-15.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: The `knowledge-sync.sh` script was run autonomously.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "06e18920b74b"
+      ],
+      "recallDays": [
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync.sh",
+        "assistant",
+        "the",
+        "knowledge",
+        "sync.sh",
+        "script",
+        "was",
+        "run"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-15.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-15.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-04-15.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Wednesday, April 15th, 2026 - 01:01 (Asia/Shanghai) / 2026-04-14 17:01 UTC Return your summary as plain text; it will be delivered automa",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "06e18920b74b"
+      ],
+      "recallDays": [
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-15.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-15.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-04-15.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: Autonomous task 'knowledge-sync.sh' has started.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "06e18920b74b"
+      ],
+      "recallDays": [
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync.sh",
+        "assistant",
+        "autonomous",
+        "task",
+        "knowledge",
+        "sync.sh",
+        "has",
+        "started"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-15.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-15.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-04-15.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Wednesday, April 15th, 2026 - 04:03 (Asia/Shanghai) / 2026-04-14 20:03 UTC Return your summary as plain text; it will be delivered automa",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "06e18920b74b"
+      ],
+      "recallDays": [
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-15.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-15.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-04-15.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: Autonomous execution of the `knowledge-sync` cron job, running the script `~/.openclaw/workspace/scripts/knowledge-sync.sh`.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "06e18920b74b"
+      ],
+      "recallDays": [
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "assistant",
+        "autonomous",
+        "execution",
+        "the",
+        "knowledge",
+        "sync",
+        "cron"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-15.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-15.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-04-15.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Wednesday, April 15th, 2026 - 05:03 (Asia/Shanghai) / 2026-04-14 21:03 UTC Return your summary as plain text; it will be delivered automa",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "06e18920b74b"
+      ],
+      "recallDays": [
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-15.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-15.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-04-15.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: The knowledge synchronization script has completed successfully. All relevant files and directories, including memory and notes, have been synchronized. Git changes were also pulled, and the final sync state has been saved.知识同步脚本已成功完成。所有相关文件和目录，包括记忆和笔记，都已同步。Git 更改也被拉取，",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "06e18920b74b"
+      ],
+      "recallDays": [
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "saved.知识同步脚本已成功完成",
+        "assistant",
+        "the",
+        "knowledge",
+        "synchronization",
+        "script",
+        "has",
+        "completed"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-15.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-15.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-04-15.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Wednesday, April 15th, 2026 - 06:04 (Asia/Shanghai) / 2026-04-14 22:04 UTC Return your summary as plain text; it will be delivered automa",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "06e18920b74b"
+      ],
+      "recallDays": [
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-15.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-15.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-04-15.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: The autonomous task 'knowledge-sync' is currently running the script '~/.openclaw/workspace/scripts/knowledge-sync.sh'. This execution is scheduled and autonomous. The current time is Wednesday, April 15th, 2026 - 06:04 (Asia/Shanghai).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "06e18920b74b"
+      ],
+      "recallDays": [
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "assistant",
+        "the",
+        "autonomous",
+        "task",
+        "knowledge",
+        "sync"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-15.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-15.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-04-15.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Wednesday, April 15th, 2026 - 08:06 (Asia/Shanghai) / 2026-04-15 00:06 UTC Return your summary as plain text; it will be delivered automa",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "06e18920b74b"
+      ],
+      "recallDays": [
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-15.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-15.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-04-15.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "Assistant: The autonomous knowledge synchronization script (`~/.openclaw/workspace/scripts/knowledge-sync.sh`) is running.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "06e18920b74b"
+      ],
+      "recallDays": [
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "assistant",
+        "the",
+        "autonomous",
+        "knowledge",
+        "synchronization",
+        "script",
+        "openclaw",
+        "scripts"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-15.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-15.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-04-15.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Wednesday, April 15th, 2026 - 02:02 (Asia/Shanghai) / 2026-04-14 18:02 UTC Return your summary as plain text; it will be delivered automa",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "06e18920b74b"
+      ],
+      "recallDays": [
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-15.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-15.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-04-15.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "Assistant: Autonomous task `knowledge-sync.sh` ran at Wednesday, April 15th, 2026, 02:02 Asia/Shanghai time.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "06e18920b74b"
+      ],
+      "recallDays": [
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync.sh",
+        "asia/shanghai",
+        "assistant",
+        "autonomous",
+        "task",
+        "knowledge",
+        "sync.sh",
+        "ran"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-15.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-15.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-04-15.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "User: [cron:11a001fc-4175-4454-b1f1-b9cd7bdb901a knowledge-sync] AUTONOMOUS: Run ~/.openclaw/workspace/scripts/knowledge-sync.sh Current time: Wednesday, April 15th, 2026 - 07:05 (Asia/Shanghai) / 2026-04-14 23:05 UTC Return your summary as plain text; it will be delivered automa",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "06e18920b74b"
+      ],
+      "recallDays": [
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "asia/shanghai",
+        "user",
+        "cron",
+        "11a001fc",
+        "b1f1",
+        "b9cd7bdb901a",
+        "knowledge"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-15.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-15.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-04-15.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "Assistant: Ok, the `knowledge-sync.sh` script has finished running autonomously.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "06e18920b74b"
+      ],
+      "recallDays": [
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync.sh",
+        "assistant",
+        "the",
+        "knowledge",
+        "sync.sh",
+        "script",
+        "has",
+        "finished"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:639:639": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:639:639",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 639,
+      "endLine": 639,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-tui\", \"id\": \"openclaw-tui\", \"name\": \"openclaw-tui\", \"username\": \"openclaw-tui\" } ``` [Mon 2026-04-13 21:58 GMT+8] ？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "openclaw-tui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "tui"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:640:640": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:640:640",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 640,
+      "endLine": 640,
+      "source": "memory",
+      "snippet": "Assistant: The user is asking me to read the GitHub repository `https://github.com/safishamsi/graphify` using the \"web reader\" (which I interpret as `web_fetch` or `browser` tool) and then adapt it for installation. My previous attempt with `web_fetch` failed because the URL reso",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "github.com/safishamsi/graphify",
+        "web-fetch",
+        "assistant",
+        "the",
+        "user",
+        "asking",
+        "read",
+        "github"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:641:641": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:641:641",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 641,
+      "endLine": 641,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-tui\", \"id\": \"openclaw-tui\", \"name\": \"openclaw-tui\", \"username\": \"openclaw-tui\" } ``` [Mon 2026-04-13 21:58 GMT+8] 使用web reader 阅读https://github.com/safishamsi/graphify/blob/v4/README.md 帮我适配安装好",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "openclaw-tui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "tui"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:642:642": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:642:642",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 642,
+      "endLine": 642,
+      "source": "memory",
+      "snippet": "Assistant: The user is again asking me to read a URL related to `https://github.com/safishamsi/graphify` and adapt it for installation. This time, they provided a specific path `/blob/v4/README.md`. My previous attempts with both `web_fetch` and `browser` failed because the URL p",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "github.com/safishamsi/graphify",
+        "blob/v4/readme.md",
+        "web-fetch",
+        "assistant",
+        "the",
+        "user",
+        "asking",
+        "read"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:643:643": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:643:643",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 643,
+      "endLine": 643,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-tui\", \"id\": \"openclaw-tui\", \"name\": \"openclaw-tui\", \"username\": \"openclaw-tui\" } ``` [Mon 2026-04-13 21:59 GMT+8] 使用中文和我对话",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "openclaw-tui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "tui"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:644:644": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:644:644",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 644,
+      "endLine": 644,
+      "source": "memory",
+      "snippet": "Assistant: 好的，我将继续使用中文与您对话。 关于您之前提到的 `https://github.com/safishamsi/graphify/blob/v4/README.md` 仓库，我仍然无法访问。`web_fetch` 和 `browser` 工具都提示该 URL 解析到一个私有/内部 IP 地址，这触发了安全策略，我无法读取其内容。 因此，我无法为您适配安装。 您是否可以： 1. 提供一个公开可访问的仓库 URL？ 2. 或者，直接将 README 文件内容、安装说明等关键信息提供给我？ 这样我才能继续为您提供帮助。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "web-fetch",
+        "解析到一个私有/内部",
+        "assistant",
+        "好的",
+        "继续",
+        "使用",
+        "中文",
+        "对话"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:645:645": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:645:645",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 645,
+      "endLine": 645,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-tui\", \"id\": \"openclaw-tui\", \"name\": \"openclaw-tui\", \"username\": \"openclaw-tui\" } ``` [Mon 2026-04-13 22:00 GMT+8] 使用opencli web reader阅读？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "openclaw-tui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "tui"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:646:646": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:646:646",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 646,
+      "endLine": 646,
+      "source": "memory",
+      "snippet": "Assistant: 您提到了使用 `opencli web reader`。 `opencli` 这个工具主要是用来将网站转化为命令行界面的。我查阅了相关信息，它本身并不直接像 `web_fetch` 那样“阅读”网页内容，而是提供一个 CLI 接口来与网站交互。 **然而，最根本的问题依然是：** 我仍然无法访问您提供的 GitHub 仓库链接 `https://github.com/safishamsi/graphify/blob/v4/README.md`。我尝试使用 `web_fetch` 和 `browser` 工具时，都遇到了相同的错误：“",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "web-fetch",
+        "assistant",
+        "提到",
+        "使用",
+        "opencli",
+        "web",
+        "reader",
+        "这个"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:647:647": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:647:647",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 647,
+      "endLine": 647,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-tui\", \"id\": \"openclaw-tui\", \"name\": \"openclaw-tui\", \"username\": \"openclaw-tui\" } ``` [Mon 2026-04-13 22:02 GMT+8] https://raw.githubusercontent.com/safishamsi/graphify/v4/README.md",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "openclaw-tui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "tui"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:648:648": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:648:648",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 648,
+      "endLine": 648,
+      "source": "memory",
+      "snippet": "Assistant: The user has provided a new URL: `https://raw.githubusercontent.com/safishamsi/graphify/v4/README.md`. This URL is a common pattern for accessing raw file content from GitHub repositories. However, my attempt to fetch this URL using `web_fetch` failed with the exact sa",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "web-fetch",
+        "assistant",
+        "the",
+        "user",
+        "has",
+        "provided",
+        "new",
+        "url"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:649:649": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:649:649",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 649,
+      "endLine": 649,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:650:650": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:650:650",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 650,
+      "endLine": 650,
+      "source": "memory",
+      "snippet": "Assistant: I will read `HEARTBEAT.md` and follow its instructions strictly.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "assistant",
+        "will",
+        "read",
+        "follow",
+        "instructions",
+        "strictly"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:651:651": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:651:651",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 651,
+      "endLine": 651,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-tui\", \"id\": \"openclaw-tui\", \"name\": \"openclaw-tui\", \"username\": \"openclaw-tui\" } ``` [Mon 2026-04-13 21:58 GMT+8] ？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "openclaw-tui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "tui"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:652:652": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:652:652",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 652,
+      "endLine": 652,
+      "source": "memory",
+      "snippet": "Assistant: The user is asking me to read the GitHub repository `https://github.com/safishamsi/graphify` using the \"web reader\" (which I interpret as `web_fetch` or `browser` tool) and then adapt it for installation. My previous attempt with `web_fetch` failed because the URL reso",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "github.com/safishamsi/graphify",
+        "web-fetch",
+        "assistant",
+        "the",
+        "user",
+        "asking",
+        "read",
+        "github"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:653:653": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:653:653",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 653,
+      "endLine": 653,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-tui\", \"id\": \"openclaw-tui\", \"name\": \"openclaw-tui\", \"username\": \"openclaw-tui\" } ``` [Mon 2026-04-13 21:58 GMT+8] 使用web reader 阅读https://github.com/safishamsi/graphify/blob/v4/README.md 帮我适配安装好",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "openclaw-tui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "tui"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:654:654": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:654:654",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 654,
+      "endLine": 654,
+      "source": "memory",
+      "snippet": "Assistant: The user is again asking me to read a URL related to `https://github.com/safishamsi/graphify` and adapt it for installation. This time, they provided a specific path `/blob/v4/README.md`. My previous attempts with both `web_fetch` and `browser` failed because the URL p",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "github.com/safishamsi/graphify",
+        "blob/v4/readme.md",
+        "web-fetch",
+        "assistant",
+        "the",
+        "user",
+        "asking",
+        "read"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:655:655": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:655:655",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 655,
+      "endLine": 655,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-tui\", \"id\": \"openclaw-tui\", \"name\": \"openclaw-tui\", \"username\": \"openclaw-tui\" } ``` [Mon 2026-04-13 21:59 GMT+8] 使用中文和我对话",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "openclaw-tui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "tui"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:656:656": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:656:656",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 656,
+      "endLine": 656,
+      "source": "memory",
+      "snippet": "Assistant: 好的，我将继续使用中文与您对话。 关于您之前提到的 `https://github.com/safishamsi/graphify/blob/v4/README.md` 仓库，我仍然无法访问。`web_fetch` 和 `browser` 工具都提示该 URL 解析到一个私有/内部 IP 地址，这触发了安全策略，我无法读取其内容。 因此，我无法为您适配安装。 您是否可以： 1. 提供一个公开可访问的仓库 URL？ 2. 或者，直接将 README 文件内容、安装说明等关键信息提供给我？ 这样我才能继续为您提供帮助。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "web-fetch",
+        "解析到一个私有/内部",
+        "assistant",
+        "好的",
+        "继续",
+        "使用",
+        "中文",
+        "对话"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:657:657": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:657:657",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 657,
+      "endLine": 657,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-tui\", \"id\": \"openclaw-tui\", \"name\": \"openclaw-tui\", \"username\": \"openclaw-tui\" } ``` [Mon 2026-04-13 22:00 GMT+8] 使用opencli web reader阅读？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "openclaw-tui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "tui"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:658:658": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:658:658",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 658,
+      "endLine": 658,
+      "source": "memory",
+      "snippet": "Assistant: 您提到了使用 `opencli web reader`。 `opencli` 这个工具主要是用来将网站转化为命令行界面的。我查阅了相关信息，它本身并不直接像 `web_fetch` 那样“阅读”网页内容，而是提供一个 CLI 接口来与网站交互。 **然而，最根本的问题依然是：** 我仍然无法访问您提供的 GitHub 仓库链接 `https://github.com/safishamsi/graphify/blob/v4/README.md`。我尝试使用 `web_fetch` 和 `browser` 工具时，都遇到了相同的错误：“",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "web-fetch",
+        "assistant",
+        "提到",
+        "使用",
+        "opencli",
+        "web",
+        "reader",
+        "这个"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:659:659": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:659:659",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 659,
+      "endLine": 659,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-tui\", \"id\": \"openclaw-tui\", \"name\": \"openclaw-tui\", \"username\": \"openclaw-tui\" } ``` [Mon 2026-04-13 22:02 GMT+8] https://raw.githubusercontent.com/safishamsi/graphify/v4/README.md",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "openclaw-tui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "tui"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:660:660": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:660:660",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 660,
+      "endLine": 660,
+      "source": "memory",
+      "snippet": "Assistant: The user has provided a new URL: `https://raw.githubusercontent.com/safishamsi/graphify/v4/README.md`. This URL is a common pattern for accessing raw file content from GitHub repositories. However, my attempt to fetch this URL using `web_fetch` failed with the exact sa",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "web-fetch",
+        "assistant",
+        "the",
+        "user",
+        "has",
+        "provided",
+        "new",
+        "url"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:661:661": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:661:661",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 661,
+      "endLine": 661,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:662:662": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:662:662",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 662,
+      "endLine": 662,
+      "source": "memory",
+      "snippet": "Assistant: I will read `HEARTBEAT.md` and follow its instructions strictly.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "assistant",
+        "will",
+        "read",
+        "follow",
+        "instructions",
+        "strictly"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:192:192": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:192:192",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 192,
+      "endLine": 192,
+      "source": "memory",
+      "snippet": "Assistant: I will now proceed with the checks outlined in HEARTBEAT.md: 1. **Security Check**: Reviewed recent activity. No suspicious patterns or prompt injection attempts detected. Behavioral integrity is maintained. ✅ 2. **Self-Healing Check**: Executing log review command.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "self-healing",
+        "assistant",
+        "will",
+        "now",
+        "proceed",
+        "the",
+        "checks"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:193:193": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:193:193",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 193,
+      "endLine": 193,
+      "source": "memory",
+      "snippet": "Assistant: No errors found in the logs. ✅ 3. **Proactive Surprise Check**: Considering what new amazing thing to build. I have recently added ideas for an automated build pipeline for the m3u-player Electron app and enhanced features for it. I will look for other opportunities on",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "m3u-player",
+        "assistant",
+        "errors",
+        "found",
+        "the",
+        "logs",
+        "proactive",
+        "surprise"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:194:194": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:194:194",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 194,
+      "endLine": 194,
+      "source": "memory",
+      "snippet": "Assistant: I will now proceed with the checks outlined in HEARTBEAT.md: 1. **Security Check**: Reviewed recent activity. No suspicious patterns or prompt injection attempts detected. Behavioral integrity is maintained. ✅ 2. **Self-Healing Check**: Executing log review command.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "self-healing",
+        "assistant",
+        "will",
+        "now",
+        "proceed",
+        "the",
+        "checks"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:195:195": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:195:195",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 195,
+      "endLine": 195,
+      "source": "memory",
+      "snippet": "Assistant: No errors found in the logs. ✅ 3. **Proactive Surprise Check**: Considering what new amazing thing to build. I have recently added ideas for an automated build pipeline for the m3u-player Electron app and enhanced features for it. I will look for other opportunities on",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "m3u-player",
+        "assistant",
+        "errors",
+        "found",
+        "the",
+        "logs",
+        "proactive",
+        "surprise"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:196:196": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:196:196",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 196,
+      "endLine": 196,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:197:197": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:197:197",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 197,
+      "endLine": 197,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:198:198": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:198:198",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 198,
+      "endLine": 198,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:199:199": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:199:199",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 199,
+      "endLine": 199,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:200:200": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:200:200",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 200,
+      "endLine": 200,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:201:201": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:201:201",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 201,
+      "endLine": 201,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:202:202": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:202:202",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 202,
+      "endLine": 202,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:203:203": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:203:203",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 203,
+      "endLine": 203,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/deepnight/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-15T00:09:33.024Z",
+      "lastRecalledAt": "2026-04-15T00:09:33.024Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/deepnight",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
       ]
     }
   }
