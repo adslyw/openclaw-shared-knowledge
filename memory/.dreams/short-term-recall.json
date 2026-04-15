@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-15T00:13:07.604Z",
+  "updatedAt": "2026-04-15T13:17:33.744Z",
   "entries": {
     "memory:memory/2026-04-07.md:3:3": {
       "key": "memory:memory/2026-04-07.md:3:3",
@@ -82557,6 +82557,37 @@
         "read",
         "exists",
         "context"
+      ]
+    },
+    "memory:memory/2026-04-15.md:182:185": {
+      "key": "memory:memory/2026-04-15.md:182:185",
+      "path": "memory/2026-04-15.md",
+      "startLine": 182,
+      "endLine": 185,
+      "source": "memory",
+      "snippet": "@@ -182,4 @@ (181 before, 153 after) - status: staged - Candidate: Assistant: Autonomous execution of the `knowledge-sync` cron job, running the script `~/.openclaw/workspace/scripts/knowledge-sync.sh`. - confidence: 0.58 - evidence: memory/.dreams/session-corpus/2026-04-15.txt:8-8",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.94,
+      "maxScore": 0.94,
+      "firstRecalledAt": "2026-04-15T13:17:33.744Z",
+      "lastRecalledAt": "2026-04-15T13:17:33.744Z",
+      "queryHashes": [
+        "cbd05396fb17"
+      ],
+      "recallDays": [
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "knowledge-sync",
+        "0.58",
+        "8-8",
+        "182,4",
+        "status",
+        "staged",
+        "candidate",
+        "assistant"
       ]
     }
   }
